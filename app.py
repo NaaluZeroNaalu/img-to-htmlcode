@@ -11,16 +11,17 @@ import cv2
 from skimage.metrics import structural_similarity as ssim
 import tempfile
 
-# Load the saved model
 # Google Drive link to your model file (replace with your actual link)
-google_drive_link = "https://drive.google.com/file/d/1xjBXYvv6cjm6c-813_zZwe-zHTEX1OqK/view?usp=sharing"
+google_drive_link = "https://drive.google.com/uc?export=download&id=1xjBXYvv6cjm6c-813_zZwe-zHTEX1OqK"
 
-# Download the model file from Google Drive
+# Download the model file from Google Drive and save it locally
 response = requests.get(google_drive_link)
-model_file = BytesIO(response.content)
+model_file_path = "img2html.h5"
+with open(model_file_path, "wb") as f:
+    f.write(response.content)
 
 # Load the model from the downloaded file
-model = tf.keras.models.load_model(model_file)
+model = tf.keras.models.load_model(model_file_path)
 
 # Define the class names
 class_names = ['dropdownbar', 'footer', 'gradientcolorloginpage', 'loginpage', 'normalpages', 'searchpage', 'sidebar', 'topnavbar']
@@ -69,26 +70,26 @@ if uploaded_file is not None:
     input_image = cv2.imread(temp_file.name)
     input_image_gray = cv2.cvtColor(input_image, cv2.COLOR_BGR2GRAY)
     for image_path, code in zip(data['picture'], data['code']):
-        full_image_path = current_directory+image_path
+        full_image_path = current_directory + image_path
         # Load the image
         print("Image path:", full_image_path)
         image = cv2.imread(full_image_path)
         print("Image:", image)
-        
+
         # Check if the image is loaded successfully
         if image is None:
             print("Error: Unable to load image:", full_image_path)
             continue
-    
+
         # Resize the image to match the size of the input_image
         image_resized = cv2.resize(image, (input_image.shape[1], input_image.shape[0]))
-    
+
         # Convert the resized image to RGB color space
         image_rgb = cv2.cvtColor(image_resized, cv2.COLOR_BGR2RGB)
-    
+
         # Calculate similarity
         similarity = ssim(input_image_gray, cv2.cvtColor(image_rgb, cv2.COLOR_RGB2GRAY))
-        
+
         if similarity > max_similarity:
             max_similarity = similarity
             similar_code = code
