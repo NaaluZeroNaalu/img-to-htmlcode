@@ -4,6 +4,5 @@ numpy
 pandas
 pillow
 opencv-python
-cv2
 scikit-image
 wheel
