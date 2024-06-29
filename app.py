@@ -1,7 +1,9 @@
 import streamlit as st
 import tensorflow as tf
 import numpy as np
+import requests
 import pandas as pd
+from io import BytesIO
 import os
 from tensorflow.keras.preprocessing import image
 from PIL import Image  # Import Image module from PIL library
@@ -10,7 +12,15 @@ from skimage.metrics import structural_similarity as ssim
 import tempfile
 
 # Load the saved model
-model = tf.keras.models.load_model('C:\\Users\\ajith\\Desktop\\saranya\\img2html.h5')
+# Google Drive link to your model file (replace with your actual link)
+google_drive_link = "https://drive.google.com/file/d/1xjBXYvv6cjm6c-813_zZwe-zHTEX1OqK/view?usp=sharing"
+
+# Download the model file from Google Drive
+response = requests.get(google_drive_link)
+model_file = BytesIO(response.content)
+
+# Load the model from the downloaded file
+model = tf.keras.models.load_model(model_file)
 
 # Define the class names
 class_names = ['dropdownbar', 'footer', 'gradientcolorloginpage', 'loginpage', 'normalpages', 'searchpage', 'sidebar', 'topnavbar']
