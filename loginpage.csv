@@ -1,0 +1,6409 @@
+picture,code
+/pages/loginpage/aqua.jpg," <style>
+
+      body{
+        background-color: aqua;
+      }
+        .login{
+            border: 1px solid black;
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+        }
+    <\style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>
+   "
+/pages/loginpage/blueloginpage.jpg," <style>
+
+      body{
+        background-color: blue;
+      }
+        .login{
+            border: 1px solid black;
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+        }
+    <\style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>"
+/pages/loginpage/bluevoilet.jpg," <style>
+
+      body{
+        background-color: blueviolet;
+      }
+        .login{
+            border: 1px solid black;
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+        }
+    <\style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>
+"
+/pages/loginpage/brown.jpg,"<style>
+
+      body{
+        background-color: brown;
+      }
+        .login{
+            border: 1px solid black;
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+        }
+    <\style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>"
+/pages/loginpage/burlywood.jpg," <style>
+
+      body{
+        background-color: burlywood;
+      }
+        .login{
+            border: 1px solid black;
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+        }
+    <\style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>
+"
+/pages/loginpage/chartreusewithblackbordered.jpg,"<style>
+
+      body{
+        background-color: chartreuse;
+      }
+        .login{
+            border: 1px solid black;
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+        }
+    <\style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>
+   "
+/pages/loginpage/chartreusewithwhitebordered.jpg,"<style>
+
+      body{
+        background-color: chartreuse;
+      }
+        .login{
+            border: 1px solid rgb(255, 255, 255);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    <\style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>"
+/pages/loginpage/chocolate.jpg,"<style>
+
+      body{
+        background-color: chocolate;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    <\style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>"
+/pages/loginpage/coral.jpg,"<style>
+
+      body{
+        background-color: coral;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    <\style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>"
+/pages/loginpage/darkblue.jpg,"<style>
+
+      body{
+        background-color: darkblue;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    <\style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>"
+/pages/loginpage/darkgrey.jpg," <style>
+
+      body{
+        background-color: darkgrey;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    <\style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>"
+/pages/loginpage/darkmagneta.jpg," <style>
+
+      body{
+        background-color: darkmagenta;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    <\style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>"
+/pages/loginpage/darkmagnetawithwhitebordered.jpg," <style>
+
+      body{
+        background-color: darkmagenta;
+      }
+        .login{
+            border: 1px solid rgb(255, 255, 255);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    <\style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>"
+/pages/loginpage/darkorange.jpg,"<style>
+
+      body{
+        background-color: darkorange;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    <\style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>"
+/pages/loginpage/darkred.jpg," <style>
+
+      body{
+        background-color: darkred;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    <\style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>"
+/pages/loginpage/darkredwithwhitebordered.jpg,"<style>
+
+      body{
+        background-color: darkred;
+      }
+        .login{
+            border: 1px solid rgb(255, 255, 255);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    <\style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>
+   "
+/pages/loginpage/dimgreywithblackbordered.jpg,"<style>
+
+      body{
+        background-color: dimgray;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    <\style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>"
+/pages/loginpage/dimgreywithwhiteborderededbordered.jpg,"<style>
+
+      body{
+        background-color: dimgray;
+      }
+        .login{
+            border: 1px solid rgb(255, 255, 255);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    <\style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>"
+/pages/loginpage/dodgerblue.jpg,"<style>
+
+      body{
+        background-color: dodgerblue;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    <\style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>"
+/pages/loginpage/goldwithblackbordered.jpg,"<style>
+
+      body{
+        background-color: gold;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    <\style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>"
+/pages/loginpage/goldwithwhitebordered.jpg," <style>
+
+      body{
+        background-color: gold;
+      }
+        .login{
+            border: 1px solid rgb(255, 255, 255);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    <\style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>"
+/pages/loginpage/greenforestwithblackbordered.jpg,"<style>
+
+      body{
+        background-color: rgb(7, 76, 7);
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    <\style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>"
+/pages/loginpage/greenforestwithwhitebordered.jpg,"<style>
+
+      body{
+        background-color: rgb(7, 76, 7);
+      }
+        .login{
+            border: 1px solid rgb(255, 255, 255);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    <\style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>"
+/pages/loginpage/greenloginpage.jpg,"<style>
+
+      body{
+        background-color: green;
+      }
+        .login{
+            border: 1px solid rgb(255, 255, 255);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    <\style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>"
+/pages/loginpage/grey.jpg," <style>
+
+      body{
+        background-color: grey;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    <\style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>"
+/pages/loginpage/lime.jpg,"<style>
+
+      body{
+        background-color: lime;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    <\style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>"
+/pages/loginpage/limewithwhitebordered.jpg,"<style>
+
+      body{
+        background-color: lime;
+      }
+        .login{
+            border: 1px solid rgb(255, 255, 255);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    <\style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>"
+/pages/loginpage/magnetawithblackbordered.jpg,"<style>
+
+      body{
+        background-color: magenta;
+      }
+        .login{
+            border: 1px solid rgb(255, 255, 255);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    <\style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>"
+/pages/loginpage/orange.jpg," <style>
+
+      body{
+        background-color: orange;
+      }
+        .login{
+            border: 1px solid rgb(255, 255, 255);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    <\style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>"
+/pages/loginpage/pinkloginpage.jpg,"<style>
+
+      body{
+        background-color: pink;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    <\style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>"
+/pages/loginpage/aquamarine.jpg," <style>
+
+      body{
+        background-color: aquamarine;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    <\style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>"
+/pages/loginpage/redloginpage.jpg,"<style>
+
+      body{
+        background-color: aquamarine;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    <\style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>"
+/pages/loginpage/whiteloginpage.jpg,"<style>
+
+      body{
+        background-color: white;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    <\style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>"
+/pages/loginpage/yellowloginpage.jpg," <style>
+
+      body{
+        background-color: yellow;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    <\style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>"
+/pages/loginpage/salmon.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+<style>
+
+      body{
+        background-color:#FA8072;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    <\style>
+   <\head>
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a>Not a member<\a> &nbsp;  <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>
+<\html>"
+/pages/loginpage/lightsalmon.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+<style>
+
+      body{
+        background-color:#FFA07A;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    <\style>
+   <\head>
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a>Not a member<\a> &nbsp;  <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>
+<\html>"
+/pages/loginpage/crimson.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+<style>
+
+      body{
+        background-color:#DC143C;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    <\style>
+   <\head>
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a>Not a member<\a> &nbsp;  <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>
+<\html>"
+/pages/loginpage/hotpink.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+<style>
+
+      body{
+        background-color:#FF69B4;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    <\style>
+   <\head>
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a>Not a member<\a> &nbsp;  <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>
+<\html>"
+/pages/loginpage/palevioletred.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+<style>
+
+      body{
+        background-color:#DB7093;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    <\style>
+   <\head>
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a>Not a member<\a> &nbsp;  <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>
+<\html>"
+/pages/loginpage/lightyellow.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+<style>
+
+      body{
+        background-color:#FFFFE0;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    <\style>
+   <\head>
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a>Not a member<\a> &nbsp;  <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>
+<\html>"
+/pages/loginpage/papaya.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+<style>
+
+      body{
+        background-color:#FFEFD5;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    <\style>
+   <\head>
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a>Not a member<\a> &nbsp;  <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>
+<\html>"
+/pages/loginpage/peachpuff.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+<style>
+
+      body{
+        background-color:#FFDAB9;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    <\style>
+   <\head>
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a>Not a member<\a> &nbsp;  <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>
+<\html>"
+/pages/loginpage/palegoldenrod.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+<style>
+
+      body{
+        background-color:#EEE8AA;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    <\style>
+   <\head>
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a>Not a member<\a> &nbsp;  <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>
+<\html>"
+/pages/loginpage/darkkhaki.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+<style>
+
+      body{
+        background-color:#BDB76B;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    <\style>
+   <\head>
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a>Not a member<\a> &nbsp;  <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>
+<\html>"
+/pages/loginpage/lavendar.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+<style>
+
+      body{
+        background-color:#E6E6FA;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    <\style>
+   <\head>
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a>Not a member<\a> &nbsp;  <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>
+<\html>"
+/pages/loginpage/plum.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+<style>
+
+      body{
+        background-color:#DDA0DD;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    <\style>
+   <\head>
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a>Not a member<\a> &nbsp;  <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>
+<\html>"
+/pages/loginpage/orchid.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+<style>
+
+      body{
+        background-color:#DA70D6;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    <\style>
+   <\head>
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a>Not a member<\a> &nbsp;  <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>
+<\html>"
+/pages/loginpage/darkseagreen.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+<style>
+
+      body{
+        background-color:#8FBC8B;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    <\style>
+   <\head>
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a>Not a member<\a> &nbsp;  <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>
+<\html>"
+/pages/loginpage/lightcyan.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+<style>
+
+      body{
+        background-color:#E0FFFF;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    <\style>
+   <\head>
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a>Not a member<\a> &nbsp;  <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>
+<\html>"
+sample/lsamp2.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+<style>
+
+      body{
+        background-color: #FA8072;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+
+
+        }
+    <\style>
+   <\head>
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a>Not a member<\a> &nbsp;  <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>
+<\html>"
+sample/lsamp5.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #00BFFF;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/wheat.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+<style>
+
+      body{
+        background-color:#F5DEB3;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    <\style>
+   <\head>
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN<\h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login<\button>
+                    <br><br>
+                    <a>Not a member<\a> &nbsp;  <a href=""#"">Signup?<\a>
+                <\div>
+        <\div>
+<\html>"
+/pages/loginpage/lpindianred.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#CD5C5C;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lpsalmon.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#FA8072;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lplightsalmon.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#FFA07A;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lpred.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#FF0000;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lpdarkred.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#8B0000;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lppink.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#FFC0CB;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lppalevioletred.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#DB7093;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lptomato.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#FF6347;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lporange.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#FFA500;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lpyellow.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#FFFF00;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lppeach.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#FFEFD5;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lppalegoldenrod.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#EEE8AA;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lpkhaki.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#F0E68C;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lpthistle.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#D8BFD8;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lpplum.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#DDA0DD;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lpviolet.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#EE82EE;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lpmagenta.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#FF00FF;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lpmediumpurple.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#9370DB;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lpblueviolet.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#8A2BE2;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lppurple.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#800080;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lpslateblue.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#6A5ACD;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lpdarkslateblue.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#483D8B;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lpgreenyellow.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#ADFF2F;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lplawngreen.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#7CFC00;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lplime.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#00FF00;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lppalegreen.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#98FB98;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lpspringgreen.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#00FF7F;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lpseagreen.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#2E8B57;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lpgreen.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#008000;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lpolive.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#808000;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lpaquamarine.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#66CDAA;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lpteal.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#008080;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lpcyan.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#00FFFF;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lppaleturquoise.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#AFEEEE;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lpdarkturquoise.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#00CED1;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lplightsteel.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#B0C4DE;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lppowderblue.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#B0E0E6;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lpskyblue.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#87CEEB;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lpdeepsky.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#00BFFF;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lpblanchedalmond.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#FFEBCD;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lpwheat.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#F5DEB3;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lpburlywood.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#DEB887;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lpsandybrown.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#F4A460;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lpperu.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#CD853F;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lphoney.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#F0FFF0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lpazure.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#F0FFFF;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lpblush.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#FFF0F5;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lpmistyrose.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#FFE4E1;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lplightgray.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#D3D3D3;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"
+/pages/loginpage/lpdimgray.jpg,"<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Login Page<\title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color:#696969;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .form-container {
+        background-color: #fff;
+        padding: 35px;
+        border: 1px solid #ddd;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      label {
+        margin-bottom: 10px;
+        font-size: 18px;
+      }
+
+      input[type=""text""],
+      input[type=""password""] {
+        padding: 10px;
+        border: 1px solid #666;
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+
+      input[type=""submit""] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+      }
+
+      input[type=""submit""]:hover {
+        background-color: #0062cc;
+      }
+    <\style>
+  <\head>
+  <body>
+    <div class=""form-container"">
+      <h1>Login<\h1>
+      <form>
+        <label for=""username"">Username<\label>
+        <input type=""text"" id=""username"" name=""username"" required \>
+
+        <label for=""password"">Password<\label>
+        <input type=""password"" id=""password"" name=""password"" required \>
+
+        <input type=""submit"" value=""Login"" \><br>
+        <a>Not a member<\a><a href=""#"">Signup?<\a>
+      <\form>
+    <\div>
+  <\body>
+<\html>"

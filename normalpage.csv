@@ -1,0 +1,704 @@
+picture	code
+C:/Users/ajith/Desktop/saranya/pages/normalpages/fancyhomepage.jpeg	"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Home Page</title>
+    <style>
+        /* Apply background image */
+        body {
+            background-image: url('bg.jpg'); /* Replace 'background-image.jpg' with the path to your image */
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif; /* Optional: Change font-family as needed */
+        }
+
+        /* Style for navigation bar */
+        .navbar {
+            overflow: hidden;
+            
+        }
+
+        .navbar a {
+            float: left;
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            float: right;
+            border: 1px solid white;
+        }
+
+        .navbar a:hover {
+            background-color: #ddd; /* Background color on hover */
+            color: black;
+        }
+    </style>
+</head>
+<body>
+
+<!-- Navigation Bar -->
+<div class=""navbar"">
+    <a href=""#home"">Home</a>
+    <a href=""#about"">About</a>
+    <a href=""#services"">Services</a>
+    <a href=""#contact"">Contact</a>
+    <!-- Add more links as needed -->
+</div>
+
+<!-- Content Section (Add your content here) -->
+<div style=""padding: 20px; text-align: center;"">
+    <h1>Welcome to Our Website</h1>
+    <p>This is the home page content. You can add more content here.</p>
+    <div>
+      <button style=""background-color: blue;color:white;width: 200px;height: 50px;"">buttonone</button>
+      <button style=""width: 200px;height: 50px;"">buttontwo</button>
+    </div>
+</div>
+
+</body>
+</html>
+"
+C:/Users/ajith/Desktop/saranya/pages/normalpages/simplyfancyhomepage.jpg	"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Home Page</title>
+    <style>
+        /* Apply background image */
+        body {
+            background-image: url('bg.jpg'); /* Replace 'background-image.jpg' with the path to your image */
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif; /* Optional: Change font-family as needed */
+        }
+
+        /* Style for navigation bar */
+        .navbar {
+            overflow: hidden;
+            
+        }
+
+        .navbar a {
+            float: left;
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            float: right;
+            border: 1px solid white;
+        }
+
+        .navbar a:hover {
+            background-color: #ddd; /* Background color on hover */
+            color: black;
+        }
+    </style>
+</head>
+<body>
+
+<!-- Navigation Bar -->
+<div class=""navbar"">
+    <a href=""#home"">Home</a>
+    <a href=""#about"">About</a>
+    <a href=""#services"">Services</a>
+    <a href=""#contact"">Contact</a>
+    <!-- Add more links as needed -->
+</div>
+
+<!-- Content Section (Add your content here) -->
+<br><br><br><br><br><br><br><br><br><br>
+<div style=""padding: 20px; text-align: center;"">
+    <h1 style=""color:white;"">WE ARE <span style=""color:rgb(0, 255, 247);"">CREATIVE</span></h1>
+    <div >
+      <button style=""border: 1px solid white;width: 150px;height: 40px;background-color: rgba(0, 0, 0, 0.5);color: white;"">CONTACT US</button>
+    </div>
+</div>
+
+</body>
+</html>
+"
+C:/Users/ajith/Desktop/saranya/pages/normalpages/four.jpg	"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Home Page</title>
+    <style>
+        /* Apply background image */
+        body {
+            background-image: url('bg.jpg'); /* Replace 'background-image.jpg' with the path to your image */
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif; /* Optional: Change font-family as needed */
+        }
+
+        /* Style for navigation bar */
+        .navbar {
+            overflow: hidden;
+            background-color: white;
+        }
+
+        .navbar a {
+            float: left;
+            display: block;
+            color: rgb(0, 0, 0);
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            float: right;
+            border: 1px solid white;
+        }
+
+        .navbar a:hover {
+            background-color: green; /* Background color on hover */
+            color: black;
+        }
+    </style>
+</head>
+<body>
+
+<!-- Navigation Bar -->
+<div class=""navbar"">
+    <a href=""#home"">Home</a>
+    <a href=""#about"">About</a>
+    <a href=""#services"">Services</a>
+    <a href=""#contact"">Contact</a>
+    <!-- Add more links as needed -->
+</div>
+
+<!-- Content Section (Add your content here) -->
+<br><br><br><br><br><br><br><br><br><br>
+<div style=""padding: 20px;"">
+    <h1 style=""color:white;"">THE BEST ONLINE LEARNING PLATFORM</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam laboriosam asperiores in adipisci velit autem fugit veritatis? Culpa quos, rem eligendi a quibusdam, minima molestias voluptatibus nostrum laboriosam, beatae laudantium!</p>
+    <div >
+      <button style=""border: 1px solid white;width: 150px;height: 40px;background-color:green;color: white;"">READ HERE</button>
+      <button style=""border: 1px solid white;width: 150px;height: 40px;background-color:black rgba(0, 0, 0, 0.5);color: rgb(0, 0, 0);"">JOIN NOW</button>
+    </div>
+</div>
+
+</body>
+</html>
+"
+C:/Users/ajith/Desktop/saranya/pages/normalpages/five.jpg	"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Home Page</title>
+    <style>
+        /* Apply background image */
+        body {
+            background-image: url('bg.jpg'); /* Replace 'background-image.jpg' with the path to your image */
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif; /* Optional: Change font-family as needed */
+        }
+
+        /* Style for navigation bar */
+        .navbar {
+            overflow: hidden;
+            background-color: white;
+        }
+
+        .navbar a {
+            float: left;
+            display: block;
+            color: rgb(0, 0, 0);
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            float: right;
+            border: 1px solid white;
+        }
+
+        .navbar a:hover {
+            background-color: green; /* Background color on hover */
+            color: black;
+        }
+    </style>
+</head>
+<body>
+
+<!-- Navigation Bar -->
+<div class=""navbar"">
+    <a href=""#home"">Home</a>
+    <a href=""#about"">About</a>
+    <a href=""#services"">Services</a>
+    <a href=""#contact"">Contact</a>
+    <!-- Add more links as needed -->
+</div>
+
+<!-- Content Section (Add your content here) -->
+<br><br><br><br><br><br><br><br><br><br>
+<div style=""padding: 20px;text-align: right;"">
+    <h1 style=""color:white;"">EDUCATION NEEDS <br>COMPLETE SOLUTIONS</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing <br> Ipsam laboriosam asperiores in adipisci velit autem fugit veritatis?<br> Culpa quos, rem eligendi a quibusdam, minima molestias</p>
+    <div >
+      <button style=""border: 1px solid white;width: 150px;height: 40px;background-color:rgb(26, 5, 84);color: white;"">APPLY NOW</button>
+    </div>
+</div>
+
+</body>
+</html>
+"
+C:/Users/ajith/Desktop/saranya/pages/normalpages/homepage.jpg	"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Home Page</title>
+    <style>
+        /* Apply background image */
+        body {
+            background-image: url('bg.jpg'); /* Replace 'background-image.jpg' with the path to your image */
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif; /* Optional: Change font-family as needed */
+        }
+
+        /* Style for navigation bar */
+        .navbar {
+            overflow: hidden;
+        }
+
+        .navbar a {
+            float: left;
+            display: block;
+            color: rgb(255, 255, 255);
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            float:left;
+        }
+
+        .navbar a:hover {
+            background-color: rgb(255, 255, 255); /* Background color on hover */
+            color: black;
+        }
+    </style>
+</head>
+<body>
+
+<!-- Navigation Bar -->
+<div class=""navbar"">
+    <a href=""#home"">Home</a>
+    <a href=""#about"">About</a>
+    <a href=""#services"">Services</a>
+    <a href=""#contact"">Contact</a>
+    <!-- Add more links as needed -->
+</div>
+
+<!-- Content Section (Add your content here) -->
+<br><br><br><br><br><br><br><br><br><br>
+<div style=""padding: 20px;text-align:center;"">
+    <h1 style=""color:white;"">Banner Text</h1>
+    <div >
+      <button style=""border: 1px solid white;width: 150px;height: 40px;background-color:rgb(0,0,0,0.5);color: white;"">APPLY NOW</button>
+    </div>
+</div>
+
+</body>
+</html>
+"
+C:/Users/ajith/Desktop/saranya/pages/normalpages/normalfancywelcomepage.jpeg	"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Home Page</title>
+    <style>
+        /* Apply background image */
+        body {
+            background-image: url('bg.jpg'); /* Replace 'background-image.jpg' with the path to your image */
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif; /* Optional: Change font-family as needed */
+        }
+
+        /* Style for navigation bar */
+        .navbar {
+            overflow: hidden;
+        }
+
+        .navbar a {
+            float: left;
+            display: block;
+            color: rgb(255, 255, 255);
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            float:right;
+        }
+
+        .navbar a:hover {
+            background-color: rgb(255, 255, 255); /* Background color on hover */
+            color: black;
+        }
+    </style>
+</head>
+<body>
+
+<!-- Navigation Bar -->
+<div class=""navbar"">
+    <a href=""#home"">Home</a>
+    <a href=""#about"">About</a>
+    <a href=""#services"">Services</a>
+    <a href=""#contact"">Contact</a>
+    <!-- Add more links as needed -->
+</div>
+
+<!-- Content Section (Add your content here) -->
+<br><br><br><br><br><br><br><br><br><br>
+<div style=""padding: 20px;text-align:center;"">
+    <h1 style=""color:white;"">WELCOME TO WEB PAGE</h1>
+    <h3>SIMPLE WEB PAGE</h3>
+    
+</div>
+
+</body>
+</html>
+"
+C:/Users/ajith/Desktop/saranya/pages/normalpages/ss.jpg	"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Home Page</title>
+    <style>
+        /* Apply background image */
+        body {
+            background-image: url('bg.jpg'); /* Replace 'background-image.jpg' with the path to your image */
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif; /* Optional: Change font-family as needed */
+        }
+
+        /* Style for navigation bar */
+        .navbar {
+            overflow: hidden;
+        }
+
+        .navbar a {
+            float: left;
+            display: block;
+            color: rgb(255, 255, 255);
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            float:left;
+        }
+
+        .navbar a:hover {
+            background-color: rgb(255, 255, 255); /* Background color on hover */
+            color: black;
+        }
+    </style>
+</head>
+<body>
+
+<!-- Navigation Bar -->
+<div class=""navbar"">
+    <a href=""#home"">Home</a>
+    <a href=""#about"">About</a>
+    <a href=""#services"">Services</a>
+    <a href=""#contact"">Contact</a>
+    <!-- Add more links as needed -->
+</div>
+
+<!-- Content Section (Add your content here) -->
+<br><br><br><br><br><br><br><br><br><br>
+<div style=""padding: 20px;text-align:left;"">
+    <h1 style=""color:white;"">Perfect Template For</h1>
+    <h1 style=""color:white;""><span style=""color: green;"">Education</span>And Course Website</h1>
+    <h3>SIMPLE WEB PAGE</h3>
+    <div>
+        <button style=""background-color: green;color: white;width: 200px;height: 50px;border-radius: 10px;"">button one</button>
+        <button style=""background-color: white;color: black;width: 200px;height: 50px;border-radius: 10px;"">button two</button>
+    </div>
+</div>
+
+</body>
+</html>
+"
+C:/Users/ajith/Desktop/saranya/pages/normalpages/three.jpg	"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Home Page</title>
+    <style>
+        /* Apply background image */
+        body {
+            background-image: url('bg.jpg'); /* Replace 'background-image.jpg' with the path to your image */
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif; /* Optional: Change font-family as needed */
+        }
+
+        /* Style for navigation bar */
+        .navbar {
+            overflow: hidden;
+            background-color: navy;
+        }
+
+        .navbar a {
+            float: left;
+            display: block;
+            color: rgb(255, 255, 255);
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            float:right;
+        }
+
+        .navbar a:hover {
+            background-color: rgb(255, 255, 255); /* Background color on hover */
+            color: black;
+        }
+    </style>
+</head>
+<body>
+
+<!-- Navigation Bar -->
+<div class=""navbar"">
+    <a href=""#home"">Home</a>
+    <a href=""#about"">About</a>
+    <a href=""#services"">Services</a>
+    <a href=""#contact"">Contact</a>
+    <!-- Add more links as needed -->
+</div>
+
+<!-- Content Section (Add your content here) -->
+<br><br><br><br><br><br><br><br><br><br>
+<div style=""padding: 20px;text-align:center;"">
+    <h1 style=""color:white;"">YOUR TExT</h1>
+    <div>
+        <button style=""background-color: green;color: white;width: 200px;height: 50px;border-radius: 10px;"">button one</button>
+        <button style=""background-color: white;color: black;width: 200px;height: 50px;border-radius: 10px;"">button two</button>
+    </div>
+</div>
+
+</body>
+</html>
+"
+C:/Users/ajith/Desktop/saranya/pages/normalpages/two.jpg	"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Home Page</title>
+    <style>
+        /* Apply background image */
+        body {
+            background-image: url('bg.jpg'); /* Replace 'background-image.jpg' with the path to your image */
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif; /* Optional: Change font-family as needed */
+        }
+
+        /* Style for navigation bar */
+        .navbar {
+            overflow: hidden;
+            background-color: rgb(27, 27, 28);
+        }
+
+        .navbar a {
+            float: left;
+            display: block;
+            color: rgb(255, 255, 255);
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            float:right;
+        }
+
+        .navbar a:hover {
+            background-color: rgb(255, 255, 255); /* Background color on hover */
+            color: black;
+        }
+    </style>
+</head>
+<body>
+
+<!-- Navigation Bar -->
+<div class=""navbar"">
+    <a href=""#home"">Home</a>
+    <a href=""#about"">About</a>
+    <a href=""#services"">Services</a>
+    <a href=""#contact"">Contact</a>
+    <!-- Add more links as needed -->
+</div>
+
+<!-- Content Section (Add your content here) -->
+<br><br><br><br><br><br><br><br><br><br>
+<div style=""padding: 20px;text-align:center;"">
+    <h1 style=""color:white;"">YOUR TExT</h1>
+    <div>
+        <button style=""background-color: green;color: white;width: 200px;height: 50px;border-radius: 10px;"">button one</button>
+        <button style=""background-color: white;color: black;width: 200px;height: 50px;border-radius: 10px;"">button two</button>
+    </div>
+</div>
+
+</body>
+</html>
+"
+C:/Users/ajith/Desktop/saranya/pages/normalpages/seven.jpg	"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Home Page</title>
+    <style>
+        /* Apply background image */
+        body {
+            background-image: url('bg.jpg'); /* Replace 'background-image.jpg' with the path to your image */
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif; /* Optional: Change font-family as needed */
+        }
+
+        /* Style for navigation bar */
+        .navbar {
+            overflow: hidden;
+            background-color: rgb(27, 27, 28);
+        }
+
+        .navbar a {
+            float: left;
+            display: block;
+            color: rgb(255, 255, 255);
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            float:right;
+        }
+
+        .navbar a:hover {
+            background-color: rgb(255, 255, 255); /* Background color on hover */
+            color: black;
+        }
+    </style>
+</head>
+<body>
+
+<!-- Navigation Bar -->
+<div class=""navbar"">
+    <a href=""#home"">Home</a>
+    <a href=""#about"">About</a>
+    <a href=""#services"">Services</a>
+    <a href=""#contact"">Contact</a>
+    <!-- Add more links as needed -->
+</div>
+
+<!-- Content Section (Add your content here) -->
+<br><br><br><br><br><br><br><br><br><br>
+<div style=""padding: 20px;text-align:center;"">
+    <h1 style=""color:white;"">YOUR TExT</h1>
+    <div>
+        <button style=""background-color:orange;color: white;width: 200px;height: 50px;"">button one</button>
+    </div>
+</div>
+
+</body>
+</html>
+"
+C:/Users/ajith/Desktop/saranya/pages/normalpages/eight.jpg	"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Home Page</title>
+    <style>
+        /* Apply background image */
+        body {
+            background-image: url('bg.jpg'); /* Replace 'background-image.jpg' with the path to your image */
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif; /* Optional: Change font-family as needed */
+        }
+
+        /* Style for navigation bar */
+        .navbar {
+            overflow: hidden;
+            background-color: rgb(27, 27, 28);
+        }
+
+        .navbar a {
+            float: left;
+            display: block;
+            color: rgb(255, 255, 255);
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            float:right;
+        }
+
+        .navbar a:hover {
+            background-color: rgb(255, 255, 255); /* Background color on hover */
+            color: black;
+        }
+    </style>
+</head>
+<body>
+
+<!-- Navigation Bar -->
+<div class=""navbar"">
+    <a href=""#home"">Home</a>
+    <a href=""#about"">About</a>
+    <a href=""#services"">Services</a>
+    <a href=""#contact"">Contact</a>
+    <!-- Add more links as needed -->
+</div>
+
+<!-- Content Section (Add your content here) -->
+<br><br><br><br><br><br><br><br><br><br>
+<div style=""padding: 20px;text-align:center;"">
+    <h1 style=""color:white;"">YOUR TExT</h1>
+    <div>
+        <button style=""background-color:red;color: white;width: 200px;height: 50px;"">button one</button>
+        <button style=""background-color:rgb(0,0,0,0.5);color: white;width: 200px;height: 50px;"">button one</button>
+    </div>
+</div>
+
+</body>
+</html>
+"

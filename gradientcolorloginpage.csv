@@ -1,0 +1,1569 @@
+picture,code
+/pages/gradientcolorloginpage/loginpageyellowred.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+    
+    <style>
+
+      body{
+        background: linear-gradient(yellow,red);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    </style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN</h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login</button>
+                    <br><br>
+                    <a href=""#"">Signup?</a>
+                </div>
+        </div>
+   
+        
+</body>
+</html>"
+/pages/gradientcolorloginpage/loginpagepinkblue.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+    
+    <style>
+
+      body{
+        background: linear-gradient(pink,blue);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    </style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN</h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login</button>
+                    <br><br>
+                    <a href=""#"">Signup?</a>
+                </div>
+        </div>
+   
+        
+</body>
+</html>"
+/pages/gradientcolorloginpage/loginpageredyellow.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+    
+    <style>
+
+      body{
+        background: linear-gradient(red,yellow);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    </style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN</h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login</button>
+                    <br><br>
+                    <a href=""#"">Signup?</a>
+                </div>
+        </div>
+   
+        
+</body>
+</html>"
+/pages/gradientcolorloginpage/loginpagegreenblack.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+    
+    <style>
+
+      body{
+        background: linear-gradient(green,black);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    </style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN</h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login</button>
+                    <br><br>
+                    <a href=""#"">Signup?</a>
+                </div>
+        </div>
+   
+        
+</body>
+</html>"
+/pages/gradientcolorloginpage/loginpagebluewhite.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+    
+    <style>
+
+      body{
+        background: linear-gradient(blue,white);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    </style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN</h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login</button>
+                    <br><br>
+                    <a href=""#"">Signup?</a>
+                </div>
+        </div>
+   
+        
+</body>
+</html>"
+/pages/gradientcolorloginpage/loginpagewhiteblue.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+    
+    <style>
+
+      body{
+        background: linear-gradient(white,blue);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    </style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN</h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login</button>
+                    <br><br>
+                    <a href=""#"">Signup?</a>
+                </div>
+        </div>
+   
+        
+</body>
+</html>"
+/pages/gradientcolorloginpage/loginpageblueblack.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+    
+    <style>
+
+      body{
+        background: linear-gradient(blue,black);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    </style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN</h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login</button>
+                    <br><br>
+                    <a href=""#"">Signup?</a>
+                </div>
+        </div>
+   
+        
+</body>
+</html>"
+/pages/gradientcolorloginpage/loginpageblackblue.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+    
+    <style>
+
+      body{
+        background: linear-gradient(black,blue);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    </style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN</h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login</button>
+                    <br><br>
+                    <a href=""#"">Signup?</a>
+                </div>
+        </div>
+   
+        
+</body>
+</html>"
+/pages/gradientcolorloginpage/loginpagegreenyellow.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+    
+    <style>
+
+      body{
+        background: linear-gradient(green,yellow);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    </style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN</h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login</button>
+                    <br><br>
+                    <a href=""#"">Signup?</a>
+                </div>
+        </div>
+   
+        
+</body>
+</html>"
+/pages/gradientcolorloginpage/loginpageyellowgreen.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+    
+    <style>
+
+      body{
+        background: linear-gradient(yellow,green);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    </style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN</h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login</button>
+                    <br><br>
+                    <a href=""#"">Signup?</a>
+                </div>
+        </div>
+   
+        
+</body>
+</html>"
+/pages/gradientcolorloginpage/loginpagebloodymary.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+    
+    <style>
+
+      body{
+        background: linear-gradient(#ff512f,#dd2476);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    </style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN</h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login</button>
+                    <br><br>
+                    <a href=""#"">Signup?</a>
+                </div>
+        </div>
+   
+        
+</body>
+</html>"
+/pages/gradientcolorloginpage/loginpagebloodymarywhitebordered.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+    
+    <style>
+
+      body{
+        background: linear-gradient(#ff512f,#dd2476);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+      }
+        .login{
+            border: 1px solid rgb(255, 255, 255);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    </style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN</h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login</button>
+                    <br><br>
+                    <a href=""#"">Signup?</a>
+                </div>
+        </div>
+   
+        
+</body>
+</html>"
+/pages/gradientcolorloginpage/loginpagemangopulp.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+    
+    <style>
+
+      body{
+        background: linear-gradient(to right,#f09819,#edde5d);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    </style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN</h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login</button>
+                    <br><br>
+                    <a href=""#"">Signup?</a>
+                </div>
+        </div>
+   
+        
+</body>
+</html>"
+/pages/gradientcolorloginpage/loginpagemangopulpwhitebordered.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+    
+    <style>
+
+      body{
+        background: linear-gradient(to right,#f09819,#edde5d);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+      }
+        .login{
+            border: 1px solid rgb(255, 255, 255);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    </style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN</h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login</button>
+                    <br><br>
+                    <a href=""#"">Signup?</a>
+                </div>
+        </div>
+   
+        
+</body>
+</html>"
+/pages/gradientcolorloginpage/frozenwithwhitebordered.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+    
+    <style>
+
+      body{
+        background: linear-gradient(to right,#403b4a,#e7e9bb);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+      }
+        .login{
+            border: 1px solid rgb(255, 255, 255);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    </style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN</h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login</button>
+                    <br><br>
+                    <a href=""#"">Signup?</a>
+                </div>
+        </div>
+   
+        
+</body>
+</html>"
+/pages/gradientcolorloginpage/frozen.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+    
+    <style>
+
+      body{
+        background: linear-gradient(to right,#403b4a,#e7e9bb);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    </style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN</h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login</button>
+                    <br><br>
+                    <a href=""#"">Signup?</a>
+                </div>
+        </div>
+   
+        
+</body>
+</html>"
+/pages/gradientcolorloginpage/rosewater.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+    
+    <style>
+
+      body{
+        background: linear-gradient(to right,#e55d87,#5fc3e4);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    </style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN</h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login</button>
+                    <br><br>
+                    <a href=""#"">Signup?</a>
+                </div>
+        </div>
+   
+        
+</body>
+</html>"
+/pages/gradientcolorloginpage/rosewaterwithwhitebordered.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+    
+    <style>
+
+      body{
+        background: linear-gradient(to right,#e55d87,#5fc3e4);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+      }
+        .login{
+            border: 1px solid rgb(255, 255, 255);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    </style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN</h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login</button>
+                    <br><br>
+                    <a href=""#"">Signup?</a>
+                </div>
+        </div>
+   
+        
+</body>
+</html>"
+/pages/gradientcolorloginpage/rosewaterwithwhitebordered.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+    
+    <style>
+
+      body{
+        background: linear-gradient(to right,#cc95c0,#dbd4b4,#7aa1d2);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    </style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN</h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login</button>
+                    <br><br>
+                    <a href=""#"">Signup?</a>
+                </div>
+        </div>
+   
+        
+</body>
+</html>"
+/pages/gradientcolorloginpage/montecarlo.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+    
+    <style>
+
+      body{
+        background: linear-gradient(to right,#cc95c0,#dbd4b4,#7aa1d2);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    </style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN</h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login</button>
+                    <br><br>
+                    <a href=""#"">Signup?</a>
+                </div>
+        </div>
+   
+        
+</body>
+</html>"
+/pages/gradientcolorloginpage/lemontwist.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+    
+    <style>
+
+      body{
+        background: linear-gradient(to right,#3ca55c,#b5ac49);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    </style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN</h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login</button>
+                    <br><br>
+                    <a href=""#"">Signup?</a>
+                </div>
+        </div>
+   
+        
+</body>
+</html>"
+/pages/gradientcolorloginpage/emeraldwater.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+    
+    <style>
+
+      body{
+        background: linear-gradient(to right,#348f50,#56b4d3);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    </style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN</h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login</button>
+                    <br><br>
+                    <a href=""#"">Signup?</a>
+                </div>
+        </div>
+   
+        
+</body>
+</html>"
+/pages/gradientcolorloginpage/emeraldwater.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+    
+    <style>
+
+      body{
+        background: linear-gradient(to right,#da22ff,#9733ee);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    </style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN</h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login</button>
+                    <br><br>
+                    <a href=""#"">Signup?</a>
+                </div>
+        </div>
+   
+        
+</body>
+</html>"
+/pages/gradientcolorloginpage/intuitivepurple.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+    
+    <style>
+
+      body{
+        background: linear-gradient(to right,#da22ff,#9733ee);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    </style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN</h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login</button>
+                    <br><br>
+                    <a href=""#"">Signup?</a>
+                </div>
+        </div>
+   
+        
+</body>
+</html>"
+/pages/gradientcolorloginpage/greenbeach.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+    
+    <style>
+
+      body{
+        background: linear-gradient(to right,#03aab0,#00cdac);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    </style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN</h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login</button>
+                    <br><br>
+                    <a href=""#"">Signup?</a>
+                </div>
+        </div>
+   
+        
+</body>
+</html>"
+/pages/gradientcolorloginpage/noontodusk.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+    
+    <style>
+
+      body{
+        background: linear-gradient(to right,#ff6e7f,#bfe9ff);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    </style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN</h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login</button>
+                    <br><br>
+                    <a href=""#"">Signup?</a>
+                </div>
+        </div>
+   
+        
+</body>
+</html>"
+/pages/gradientcolorloginpage/blooker20.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+    
+    <style>
+
+      body{
+        background: linear-gradient(to right,#e65c00,#f9d423);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    </style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN</h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login</button>
+                    <br><br>
+                    <a href=""#"">Signup?</a>
+                </div>
+        </div>
+   
+        
+</body>
+</html>"
+/pages/gradientcolorloginpage/eveningshunshine.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+    
+    <style>
+
+      body{
+        background: linear-gradient(to right,#b92b27,#1565c0);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+      }
+        .login{
+            border: 1px solid rgb(0, 0, 0);
+            width: 300px;
+            text-align: center;
+            height: 300px;
+            border-radius: 10px;
+        }
+
+        .login button{
+            width: 180px;
+
+        }
+
+        .contain{
+            position: absolute;
+            top:30%;
+            left: 40%;
+            
+            
+        }
+    </style>
+   
+        <div class=""contain"">
+            <div class=""login"">
+                <br><br>
+                <h4>LOGIN</h4>
+                <br>
+                    <input type=""text"">
+                    <br><br>
+                    <input type=""text"">
+                    <br><br>
+                    <button>Login</button>
+                    <br><br>
+                    <a href=""#"">Signup?</a>
+                </div>
+        </div>
+   
+        
+</body>
+</html>"

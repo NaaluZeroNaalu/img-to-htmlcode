@@ -1,0 +1,6184 @@
+picture,code
+/pages/searchpage/whitesearchpage.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+
+   <style>
+    .search{
+        position: absolute;
+        left: 470px;
+        top: 200px;
+        text-align: center;
+    }
+
+    .search input{
+        width: 400px;
+        border-radius: 30px;
+    }
+   </style>
+    
+    <div class=""search"">
+        <h1>SEARCH PAGE</h1>
+        <input type=""text"" placeholder=""type here something...."">
+    </div>
+</body>
+</html>"
+/pages/searchpage/aquasearchpage.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+
+   <style>
+
+    body{
+        background-color: aqua;
+    }
+    .search{
+        position: absolute;
+        left: 470px;
+        top: 200px;
+        text-align: center;
+    }
+
+    .search input{
+        width: 400px;
+        border-radius: 30px;
+    }
+   </style>
+    
+    <div class=""search"">
+        <h1>SEARCH PAGE</h1>
+        <input type=""text"" placeholder=""type here something...."">
+    </div>
+</body>
+</html>"
+/pages/searchpage/bluesearchpage.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+
+   <style>
+
+    body{
+        background-color: darkblue;
+    }
+    .search{
+        position: absolute;
+        left: 470px;
+        top: 200px;
+        text-align: center;
+    }
+
+    .search input{
+        width: 400px;
+        border-radius: 30px;
+    }
+   </style>
+    
+    <div class=""search"">
+        <h1>SEARCH PAGE</h1>
+        <input type=""text"" placeholder=""type here something...."">
+    </div>
+</body>
+</html>"
+/pages/searchpage/blueviolet.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+
+   <style>
+
+    body{
+        background-color: blueviolet;
+    }
+    .search{
+        position: absolute;
+        left: 470px;
+        top: 200px;
+        text-align: center;
+    }
+
+    .search input{
+        width: 400px;
+        border-radius: 30px;
+    }
+   </style>
+    
+    <div class=""search"">
+        <h1>SEARCH PAGE</h1>
+        <input type=""text"" placeholder=""type here something...."">
+    </div>
+</body>
+</html>"
+/pages/searchpage/chatreusesearchpage.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+
+   <style>
+
+    body{
+        background-color: chartreuse;
+    }
+    .search{
+        position: absolute;
+        left: 470px;
+        top: 200px;
+        text-align: center;
+    }
+
+    .search input{
+        width: 400px;
+        border-radius: 30px;
+    }
+   </style>
+    
+    <div class=""search"">
+        <h1>SEARCH PAGE</h1>
+        <input type=""text"" placeholder=""type here something...."">
+    </div>
+</body>
+</html>"
+/pages/searchpage/coralsearchpage.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+
+   <style>
+
+    body{
+        background-color: chartreuse;
+    }
+    .search{
+        position: absolute;
+        left: 470px;
+        top: 200px;
+        text-align: center;
+    }
+
+    .search input{
+        width: 400px;
+        border-radius: 30px;
+    }
+   </style>
+    
+    <div class=""search"">
+        <h1>SEARCH PAGE</h1>
+        <input type=""text"" placeholder=""type here something...."">
+    </div>
+</body>
+</html>"
+/pages/searchpage/crimsonlsearchpage.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+
+   <style>
+
+    body{
+        background-color: crimson;
+    }
+    .search{
+        position: absolute;
+        left: 470px;
+        top: 200px;
+        text-align: center;
+    }
+
+    .search input{
+        width: 400px;
+        border-radius: 30px;
+    }
+   </style>
+    
+    <div class=""search"">
+        <h1>SEARCH PAGE</h1>
+        <input type=""text"" placeholder=""type here something...."">
+    </div>
+</body>
+</html>"
+/pages/searchpage/darkgreysearchpage.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+
+   <style>
+
+    body{
+        background-color: darkgrey;
+    }
+    .search{
+        position: absolute;
+        left: 470px;
+        top: 200px;
+        text-align: center;
+    }
+
+    .search input{
+        width: 400px;
+        border-radius: 30px;
+    }
+   </style>
+    
+    <div class=""search"">
+        <h1>SEARCH PAGE</h1>
+        <input type=""text"" placeholder=""type here something...."">
+    </div>
+</body>
+</html>"
+/pages/searchpage/searchpagebrown.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+
+   <style>
+
+    body{
+        background-color: brown;
+    }
+    .search{
+        position: absolute;
+        left: 470px;
+        top: 200px;
+        text-align: center;
+    }
+
+    .search input{
+        width: 400px;
+        border-radius: 30px;
+    }
+   </style>
+    
+    <div class=""search"">
+        <h1>SEARCH PAGE</h1>
+        <input type=""text"" placeholder=""type here something...."">
+    </div>
+</body>
+</html>"
+/pages/searchpage/searchpagecadetblue.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+
+   <style>
+
+    body{
+        background-color: cadetblue;
+    }
+    .search{
+        position: absolute;
+        left: 470px;
+        top: 200px;
+        text-align: center;
+    }
+
+    .search input{
+        width: 400px;
+        border-radius: 30px;
+    }
+   </style>
+    
+    <div class=""search"">
+        <h1>SEARCH PAGE</h1>
+        <input type=""text"" placeholder=""type here something...."">
+    </div>
+</body>
+</html>"
+/pages/searchpage/sprosybrown.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+
+   <style>
+
+    body{
+        background-color: rosybrown;
+    }
+    .search{
+        position: absolute;
+        left: 560px;
+        top: 270px;
+        text-align: center;
+    }
+
+    .search input{
+        width: 300px;
+        height: 42px;
+        width: 400px;
+        border-radius: 50px;
+        box-sizing: border-box;
+    }
+   </style>
+    
+    <div class=""search"">
+        <h1>Search Page</h1>
+        <input type=""text"" placeholder=""type here something...."">
+    </div>
+</body>
+</html>"
+/pages/searchpage/spsandybrown.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+
+   <style>
+
+    body{
+        background-color: #F4A460;
+    }
+    .search{
+        position: absolute;
+        left: 560px;
+        top: 270px;
+        text-align: center;
+    }
+
+    .search input{
+        width: 300px;
+        height: 42px;
+        width: 400px;
+        border-radius: 50px;
+        box-sizing: border-box;
+    }
+   </style>
+    
+    <div class=""search"">
+        <h1>Search Page</h1>
+        <input type=""text"" placeholder=""type here something...."">
+    </div>
+</body>
+</html>"
+/pages/searchpage/spperu.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+
+   <style>
+
+    body{
+        background-color: #CD853F;
+    }
+    .search{
+        position: absolute;
+        left: 560px;
+        top: 270px;
+        text-align: center;
+    }
+
+    .search input{
+        width: 300px;
+        height: 42px;
+        width: 400px;
+        border-radius: 50px;
+        box-sizing: border-box;
+    }
+   </style>
+    
+    <div class=""search"">
+        <h1>Search Page</h1>
+        <input type=""text"" placeholder=""type here something...."">
+    </div>
+</body>
+</html>"
+/pages/searchpage/sphoneydew.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+
+   <style>
+
+    body{
+        background-color: #F0FFF0;
+    }
+    .search{
+        position: absolute;
+        left: 560px;
+        top: 270px;
+        text-align: center;
+    }
+
+    .search input{
+        width: 300px;
+        height: 42px;
+        width: 400px;
+        border-radius: 50px;
+        box-sizing: border-box;
+    }
+   </style>
+    
+    <div class=""search"">
+        <h1>Search Page</h1>
+        <input type=""text"" placeholder=""type here something...."">
+    </div>
+</body>
+</html>"
+/pages/searchpage/spsilver.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+
+   <style>
+
+    body{
+        background-color: #C0C0C0;
+    }
+    .search{
+        position: absolute;
+        left: 560px;
+        top: 270px;
+        text-align: center;
+    }
+
+    .search input{
+        width: 300px;
+        height: 42px;
+        width: 400px;
+        border-radius: 50px;
+        box-sizing: border-box;
+    }
+   </style>
+    
+    <div class=""search"">
+        <h1>Search Page</h1>
+        <input type=""text"" placeholder=""type here something...."">
+    </div>
+</body>
+</html>"
+/pages/searchpage/spgray.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+
+   <style>
+
+    body{
+        background-color: #808080;
+    }
+    .search{
+        position: absolute;
+        left: 560px;
+        top: 270px;
+        text-align: center;
+    }
+
+    .search input{
+        width: 300px;
+        height: 42px;
+        width: 400px;
+        border-radius: 50px;
+        box-sizing: border-box;
+    }
+   </style>
+    
+    <div class=""search"">
+        <h1>Search Page</h1>
+        <input type=""text"" placeholder=""type here something...."">
+    </div>
+</body>
+</html>"
+/pages/searchpage/spthistle.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+
+   <style>
+
+    body{
+        background-color: #D8BFD8;
+    }
+    .search{
+        position: absolute;
+        left: 560px;
+        top: 270px;
+        text-align: center;
+    }
+
+    .search input{
+        width: 300px;
+        height: 42px;
+        width: 400px;
+        border-radius: 50px;
+        box-sizing: border-box;
+    }
+   </style>
+    
+    <div class=""search"">
+        <h1>Search Page</h1>
+        <input type=""text"" placeholder=""type here something...."">
+    </div>
+</body>
+</html>"
+/pages/searchpage/spindianred.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+
+   <style>
+
+    body{
+        background-color: #CD5C5C;
+    }
+    .search{
+        position: absolute;
+        left: 560px;
+        top: 270px;
+        text-align: center;
+    }
+
+    .search input{
+        width: 300px;
+        height: 42px;
+        width: 400px;
+        border-radius: 50px;
+        box-sizing: border-box;
+    }
+   </style>
+    
+    <div class=""search"">
+        <h1>Search Page</h1>
+        <input type=""text"" placeholder=""type here something...."">
+    </div>
+</body>
+</html>"
+/pages/searchpage/spdarksalmon.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+
+   <style>
+
+    body{
+        background-color:#E9967A;
+    }
+    .search{
+        position: absolute;
+        left: 560px;
+        top: 270px;
+        text-align: center;
+    }
+
+    .search input{
+        width: 300px;
+        height: 42px;
+        width: 400px;
+        border-radius: 50px;
+        box-sizing: border-box;
+    }
+   </style>
+    
+    <div class=""search"">
+        <h1>Search Page</h1>
+        <input type=""text"" placeholder=""type here something...."">
+    </div>
+</body>
+</html>"
+/pages/searchpage/spdarkred.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+
+   <style>
+
+    body{
+        background-color:#8B0000;
+    }
+    .search{
+        position: absolute;
+        left: 560px;
+        top: 270px;
+        text-align: center;
+    }
+
+    .search input{
+        width: 300px;
+        height: 42px;
+        width: 400px;
+        border-radius: 50px;
+        box-sizing: border-box;
+    }
+   </style>
+    
+    <div class=""search"">
+        <h1>Search Page</h1>
+        <input type=""text"" placeholder=""type here something...."">
+    </div>
+</body>
+</html>"
+/pages/searchpage/sppink.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+
+   <style>
+
+    body{
+        background-color:#FFC0CB;
+    }
+    .search{
+        position: absolute;
+        left: 560px;
+        top: 270px;
+        text-align: center;
+    }
+
+    .search input{
+        width: 300px;
+        height: 42px;
+        width: 400px;
+        border-radius: 50px;
+        box-sizing: border-box;
+    }
+   </style>
+    
+    <div class=""search"">
+        <h1>Search Page</h1>
+        <input type=""text"" placeholder=""type here something...."">
+    </div>
+</body>
+</html>"
+/pages/searchpage/spdeeppink.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+
+   <style>
+
+    body{
+        background-color:#FF1493;
+    }
+    .search{
+        position: absolute;
+        left: 560px;
+        top: 270px;
+        text-align: center;
+    }
+
+    .search input{
+        width: 300px;
+        height: 42px;
+        width: 400px;
+        border-radius: 50px;
+        box-sizing: border-box;
+    }
+   </style>
+    
+    <div class=""search"">
+        <h1>Search Page</h1>
+        <input type=""text"" placeholder=""type here something...."">
+    </div>
+</body>
+</html>"
+/pages/searchpage/spmediumvioletred.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+
+   <style>
+
+    body{
+        background-color:#C71585;
+    }
+    .search{
+        position: absolute;
+        left: 560px;
+        top: 270px;
+        text-align: center;
+    }
+
+    .search input{
+        width: 300px;
+        height: 42px;
+        width: 400px;
+        border-radius: 50px;
+        box-sizing: border-box;
+    }
+   </style>
+    
+    <div class=""search"">
+        <h1>Search Page</h1>
+        <input type=""text"" placeholder=""type here something...."">
+    </div>
+</body>
+</html>"
+/pages/searchpage/sporangered.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+
+   <style>
+
+    body{
+        background-color:#FF4500;
+    }
+    .search{
+        position: absolute;
+        left: 560px;
+        top: 270px;
+        text-align: center;
+    }
+
+    .search input{
+        width: 300px;
+        height: 42px;
+        width: 400px;
+        border-radius: 50px;
+        box-sizing: border-box;
+    }
+   </style>
+    
+    <div class=""search"">
+        <h1>Search Page</h1>
+        <input type=""text"" placeholder=""type here something...."">
+    </div>
+</body>
+</html>"
+/pages/searchpage/spdarkorange.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+
+   <style>
+
+    body{
+        background-color:#FF8C00;
+    }
+    .search{
+        position: absolute;
+        left: 560px;
+        top: 270px;
+        text-align: center;
+    }
+
+    .search input{
+        width: 300px;
+        height: 42px;
+        width: 400px;
+        border-radius: 50px;
+        box-sizing: border-box;
+    }
+   </style>
+    
+    <div class=""search"">
+        <h1>Search Page</h1>
+        <input type=""text"" placeholder=""type here something...."">
+    </div>
+</body>
+</html>"
+/pages/searchpage/spmoccasin.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+
+   <style>
+
+    body{
+        background-color:Moccasin;
+    }
+    .search{
+        position: absolute;
+        left: 560px;
+        top: 270px;
+        text-align: center;
+    }
+
+    .search input{
+        width: 300px;
+        height: 42px;
+        width: 400px;
+        border-radius: 50px;
+        box-sizing: border-box;
+    }
+   </style>
+    
+    <div class=""search"">
+        <h1>Search Page</h1>
+        <input type=""text"" placeholder=""type here something...."">
+    </div>
+</body>
+</html>"
+/pages/searchpage/sppalegoldenrod.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+
+   <style>
+
+    body{
+        background-color:#EEE8AA;
+    }
+    .search{
+        position: absolute;
+        left: 560px;
+        top: 270px;
+        text-align: center;
+    }
+
+    .search input{
+        width: 300px;
+        height: 42px;
+        width: 400px;
+        border-radius: 50px;
+        box-sizing: border-box;
+    }
+   </style>
+    
+    <div class=""search"">
+        <h1>Search Page</h1>
+        <input type=""text"" placeholder=""type here something...."">
+    </div>
+</body>
+</html>"
+/pages/searchpage/spplum.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+
+   <style>
+
+    body{
+        background-color:#DDA0DD;
+    }
+    .search{
+        position: absolute;
+        left: 560px;
+        top: 270px;
+        text-align: center;
+    }
+
+    .search input{
+        width: 300px;
+        height: 42px;
+        width: 400px;
+        border-radius: 50px;
+        box-sizing: border-box;
+    }
+   </style>
+    
+    <div class=""search"">
+        <h1>Search Page</h1>
+        <input type=""text"" placeholder=""type here something...."">
+    </div>
+</body>
+</html>"
+/pages/searchpage/spdarkorchid.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+
+   <style>
+
+    body{
+        background-color:#9932CC;
+    }
+    .search{
+        position: absolute;
+        left: 560px;
+        top: 270px;
+        text-align: center;
+    }
+
+    .search input{
+        width: 300px;
+        height: 42px;
+        width: 400px;
+        border-radius: 50px;
+        box-sizing: border-box;
+    }
+   </style>
+    
+    <div class=""search"">
+        <h1>Search Page</h1>
+        <input type=""text"" placeholder=""type here something...."">
+    </div>
+</body>
+</html>"
+/pages/searchpage/spgreenyellow.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+
+   <style>
+
+    body{
+        background-color:#ADFF2F;
+    }
+    .search{
+        position: absolute;
+        left: 560px;
+        top: 270px;
+        text-align: center;
+    }
+
+    .search input{
+        width: 300px;
+        height: 42px;
+        width: 400px;
+        border-radius: 50px;
+        box-sizing: border-box;
+    }
+   </style>
+    
+    <div class=""search"">
+        <h1>Search Page</h1>
+        <input type=""text"" placeholder=""type here something...."">
+    </div>
+</body>
+</html>"
+/pages/searchpage/sproyalblue.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+
+   <style>
+
+    body{
+        background-color:#4169E1;
+    }
+    .search{
+        position: absolute;
+        left: 560px;
+        top: 270px;
+        text-align: center;
+    }
+
+    .search input{
+        width: 300px;
+        height: 42px;
+        width: 400px;
+        border-radius: 50px;
+        box-sizing: border-box;
+    }
+   </style>
+    
+    <div class=""search"">
+        <h1>Search Page</h1>
+        <input type=""text"" placeholder=""type here something...."">
+    </div>
+</body>
+</html>"
+/pages/searchpage/spskyblue.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>your title</title>
+</head>
+<body>
+
+   <style>
+
+    body{
+        background-color:#87CEEB;
+    }
+    .search{
+        position: absolute;
+        left: 560px;
+        top: 270px;
+        text-align: center;
+    }
+
+    .search input{
+        width: 300px;
+        height: 42px;
+        width: 400px;
+        border-radius: 50px;
+        box-sizing: border-box;
+    }
+   </style>
+    
+    <div class=""search"">
+        <h1>Search Page</h1>
+        <input type=""text"" placeholder=""type here something...."">
+    </div>
+</body>
+</html>"
+/pages/searchpage/googlewhite.jpg,"<!DOCTYPE html>
+<html lang=""en"" dir=""ltr"">
+  <head>
+    <meta charset=""utf-8"">
+    <title></title>
+  <link href='https://fonts.googleapis.com/css?family=Noto Sans HK' rel='stylesheet'>
+  <link href=""https://fonts.googleapis.com/icon?family=Material+Icons"" rel=""stylesheet"">
+    <link rel=""stylesheet"" href=""file:///D:/css/css/all.css"">
+    <link rel=""stylesheet"" href=""style.css"">
+<style>
+     body{
+        margin: 0;
+        padding: 0;
+        background: #fff;
+      }
+      .main{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-100%);
+      }
+      .google{
+        position: relative;
+        width: 380px;
+        top: 80px;
+      }
+      .searchb{
+        width: 500px;
+        height: 45px;
+        position: absolute;
+        transform: translate(-20%,50%);
+      }
+      input[type=""text""]{
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        border-radius: 50px;
+        border: 1px solid #d5d4d4;
+        outline: none;
+        padding: 0 40px 0 45px;
+        font-size: 16px;
+        font-family: noto sans hk;
+        box-shadow: 0 2px 10px -7px #000;
+      }
+      .searchicon{
+        top: 13px;
+        left: 18px;
+        color: #777;
+        font-size: 21px;
+        z-index: 1;
+        position: absolute;
+      }
+     
+</style>
+  </head>
+  <body>
+    
+    <div class=""main"">
+        <div class="""">
+          <img src=""google.jpg"" alt="""" class=""google"">
+        </div>
+        <div class=""searchb"">
+          <span class=""material-icons searchicon"">search</span>
+          <input type=""text"" value="""" placeholder=""Search Google or type a URL"" required>
+                  </div>
+           </div>
+  </body>
+</html>"
+/pages/searchpage/spaliceblue.jpg,"<!DOCTYPE html>
+<html lang=""en"" dir=""ltr"">
+  <head>
+    <meta charset=""utf-8"">
+    <title></title>
+    <link href='https://fonts.googleapis.com/css?family=Noto Sans HK' rel='stylesheet'>
+    <link href=""https://fonts.googleapis.com/icon?family=Material+Icons"" rel=""stylesheet"">
+    <link rel=""stylesheet"" href=""file:///D:/css/css/all.css"">
+  <style>
+    .google {
+      
+      font-size: 36px; 
+    }
+    
+    .g {
+      color: #4285F4;}
+
+    .o {
+      color: #EA4335; 
+    }
+
+    .o2 {
+      color: #FBBC05;}
+
+    .g2 {
+      color: #34A853;}
+
+    .l {
+      color: #4CAF50; }
+
+    .e {
+      color: #4285F4;}
+      body {
+        margin: 0;
+        padding: 0;
+        background: #F0F8FF;
+      }
+      .main {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%,-100%);
+      }
+      
+      .searchb {
+        top: 190px;
+        width: 450px;
+        height: 45px;
+        position: absolute;
+        transform: translate(-20%,50%);
+      }
+      input[type=""text""] {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        border-radius: 50px;
+        border: 1px solid #d5d4d4;
+        outline: none;
+        padding: 0 40px 0 45px;
+        font-size: 16px;
+        font-family: noto sans hk;
+        box-shadow: 0 2px 10px -7px #000;
+      }
+      .searchicon {
+        top: 13px;
+        left: 18px;
+        color: #777;
+        font-size: 21px;
+        z-index: 1;
+        position: absolute;
+      }
+    </style>
+  </head>
+  <body>
+<br><br>
+    <div class=""main"">
+       <br><br>
+ <div class=""google""><h1>
+    <span class=""g"">G</span>
+    <span class=""o"">o</span>
+    <span class=""o2"">o</span>
+    <span class=""g2"">g</span>
+    <span class=""l"">l</span>
+    <span class=""e"">e</span></h1>
+  </div>
+      <div class=""searchb"">
+        <span class=""material-icons searchicon"">search</span>
+        <input type=""text"" value="""" placeholder=""Search Google or type a URL"" required>
+      </div>
+    </div>
+  </body>
+</html>"
+/pages/searchpage/spbeige.jpg,"<!DOCTYPE html>
+<html lang=""en"" dir=""ltr"">
+  <head>
+    <meta charset=""utf-8"">
+    <title></title>
+    <link href='https://fonts.googleapis.com/css?family=Noto Sans HK' rel='stylesheet'>
+    <link href=""https://fonts.googleapis.com/icon?family=Material+Icons"" rel=""stylesheet"">
+    <link rel=""stylesheet"" href=""file:///D:/css/css/all.css"">
+  <style>
+    .google {
+      
+      font-size: 36px; 
+    }
+    
+    .g {
+      color: #4285F4;}
+
+    .o {
+      color: #EA4335; 
+    }
+
+    .o2 {
+      color: #FBBC05;}
+
+    .g2 {
+      color: #34A853;}
+
+    .l {
+      color: #4CAF50; }
+
+    .e {
+      color: #4285F4;}
+      body {
+        margin: 0;
+        padding: 0;
+        background:#F5F5DC;
+      }
+      .main {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%,-100%);
+      }
+      
+      .searchb {
+        top: 190px;
+        width: 450px;
+        height: 45px;
+        position: absolute;
+        transform: translate(-20%,50%);
+      }
+      input[type=""text""] {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        border-radius: 50px;
+        border: 1px solid #d5d4d4;
+        outline: none;
+        padding: 0 40px 0 45px;
+        font-size: 16px;
+        font-family: noto sans hk;
+        box-shadow: 0 2px 10px -7px #000;
+      }
+      .searchicon {
+        top: 13px;
+        left: 18px;
+        color: #777;
+        font-size: 21px;
+        z-index: 1;
+        position: absolute;
+      }
+    </style>
+  </head>
+  <body>
+<br><br>
+    <div class=""main"">
+       <br><br>
+ <div class=""google""><h1>
+    <span class=""g"">G</span>
+    <span class=""o"">o</span>
+    <span class=""o2"">o</span>
+    <span class=""g2"">g</span>
+    <span class=""l"">l</span>
+    <span class=""e"">e</span></h1>
+  </div>
+      <div class=""searchb"">
+        <span class=""material-icons searchicon"">search</span>
+        <input type=""text"" value="""" placeholder=""Search Google or type a URL"" required>
+      </div>
+    </div>
+  </body>
+</html>"
+/pages/searchpage/sppurple.jpg,"<!DOCTYPE html>
+<html lang=""en"" dir=""ltr"">
+  <head>
+    <meta charset=""utf-8"">
+    <title></title>
+    <link href='https://fonts.googleapis.com/css?family=Noto Sans HK' rel='stylesheet'>
+    <link href=""https://fonts.googleapis.com/icon?family=Material+Icons"" rel=""stylesheet"">
+    <link rel=""stylesheet"" href=""file:///D:/css/css/all.css"">
+  <style>
+    .google {
+      
+      font-size: 36px; 
+    }
+    
+    .g {
+      color: #4285F4;}
+
+    .o {
+      color: #EA4335; 
+    }
+
+    .o2 {
+      color: #FBBC05;}
+
+    .g2 {
+      color: #34A853;}
+
+    .l {
+      color: #4CAF50; }
+
+    .e {
+      color: #4285F4;}
+
+      body {
+        margin: 0;
+        padding: 0;
+        background: #800080;
+      }
+      .main {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%,-100%);
+      }
+      
+      .searchb {
+        top: 190px;
+        width: 450px;
+        height: 45px;
+        position: absolute;
+        transform: translate(-20%,50%);
+      }
+      input[type=""text""] {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        border-radius: 50px;
+        border: 1px solid #d5d4d4;
+        outline: none;
+        padding: 0 40px 0 45px;
+        font-size: 16px;
+        font-family: noto sans hk;
+        box-shadow: 0 2px 10px -7px #000;
+      }
+      .searchicon {
+        top: 13px;
+        left: 18px;
+        color: #777;
+        font-size: 21px;
+        z-index: 1;
+        position: absolute;
+      }
+    </style>
+  </head>
+  <body>
+<br><br>
+    <div class=""main"">
+       <br><br>
+ <div class=""google""><h1>
+    <span class=""g"">G</span>
+    <span class=""o"">o</span>
+    <span class=""o2"">o</span>
+    <span class=""g2"">g</span>
+    <span class=""l"">l</span>
+    <span class=""e"">e</span></h1>
+  </div>
+      <div class=""searchb"">
+        <span class=""material-icons searchicon"">search</span>
+        <input type=""text"" value="""" placeholder=""Search Google or type a URL"" required>
+      </div>
+    </div>
+  </body>
+</html>"
+/pages/searchpage/spmagenta.jpg,"<!DOCTYPE html>
+<html lang=""en"" dir=""ltr"">
+  <head>
+    <meta charset=""utf-8"">
+    <title></title>
+    <link href='https://fonts.googleapis.com/css?family=Noto Sans HK' rel='stylesheet'>
+    <link href=""https://fonts.googleapis.com/icon?family=Material+Icons"" rel=""stylesheet"">
+    <link rel=""stylesheet"" href=""file:///D:/css/css/all.css"">
+  <style>
+    .google {
+      
+      font-size: 36px; 
+    }
+    
+    .g {
+      color: #4285F4;}
+
+    .o {
+      color: #EA4335; 
+    }
+
+    .o2 {
+      color: #FBBC05;}
+
+    .g2 {
+      color: #34A853;}
+
+    .l {
+      color: #4CAF50; }
+
+    .e {
+      color: #4285F4;}
+
+      body {
+        margin: 0;
+        padding: 0;
+        background: #FF00FF;
+      }
+      .main {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%,-100%);
+      }
+      
+      .searchb {
+        top: 190px;
+        width: 450px;
+        height: 45px;
+        position: absolute;
+        transform: translate(-20%,50%);
+      }
+      input[type=""text""] {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        border-radius: 50px;
+        border: 1px solid #d5d4d4;
+        outline: none;
+        padding: 0 40px 0 45px;
+        font-size: 16px;
+        font-family: noto sans hk;
+        box-shadow: 0 2px 10px -7px #000;
+      }
+      .searchicon {
+        top: 13px;
+        left: 18px;
+        color: #777;
+        font-size: 21px;
+        z-index: 1;
+        position: absolute;
+      }
+    </style>
+  </head>
+  <body>
+<br><br>
+    <div class=""main"">
+       <br><br>
+ <div class=""google""><h1>
+    <span class=""g"">G</span>
+    <span class=""o"">o</span>
+    <span class=""o2"">o</span>
+    <span class=""g2"">g</span>
+    <span class=""l"">l</span>
+    <span class=""e"">e</span></h1>
+  </div>
+      <div class=""searchb"">
+        <span class=""material-icons searchicon"">search</span>
+        <input type=""text"" value="""" placeholder=""Search Google or type a URL"" required>
+      </div>
+    </div>
+  </body>
+</html>"
+/pages/searchpage/sppaleturquoise.jpg,"<!DOCTYPE html>
+<html lang=""en"" dir=""ltr"">
+  <head>
+    <meta charset=""utf-8"">
+    <title></title>
+    <link href='https://fonts.googleapis.com/css?family=Noto Sans HK' rel='stylesheet'>
+    <link href=""https://fonts.googleapis.com/icon?family=Material+Icons"" rel=""stylesheet"">
+    <link rel=""stylesheet"" href=""file:///D:/css/css/all.css"">
+  <style>
+    .google {
+      
+      font-size: 36px; 
+    }
+    
+    .g {
+      color: #4285F4;}
+
+    .o {
+      color: #EA4335; 
+    }
+
+    .o2 {
+      color: #FBBC05;}
+
+    .g2 {
+      color: #34A853;}
+
+    .l {
+      color: #4CAF50; }
+
+    .e {
+      color: #4285F4;}
+
+      body {
+        margin: 0;
+        padding: 0;
+        background: #AFEEEE;
+      }
+      .main {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%,-100%);
+      }
+      
+      .searchb {
+        top: 190px;
+        width: 450px;
+        height: 45px;
+        position: absolute;
+        transform: translate(-20%,50%);
+      }
+      input[type=""text""] {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        border-radius: 50px;
+        border: 1px solid #d5d4d4;
+        outline: none;
+        padding: 0 40px 0 45px;
+        font-size: 16px;
+        font-family: noto sans hk;
+        box-shadow: 0 2px 10px -7px #000;
+      }
+      .searchicon {
+        top: 13px;
+        left: 18px;
+        color: #777;
+        font-size: 21px;
+        z-index: 1;
+        position: absolute;
+      }
+    </style>
+  </head>
+  <body>
+<br><br>
+    <div class=""main"">
+       <br><br>
+ <div class=""google""><h1>
+    <span class=""g"">G</span>
+    <span class=""o"">o</span>
+    <span class=""o2"">o</span>
+    <span class=""g2"">g</span>
+    <span class=""l"">l</span>
+    <span class=""e"">e</span></h1>
+  </div>
+      <div class=""searchb"">
+        <span class=""material-icons searchicon"">search</span>
+        <input type=""text"" value="""" placeholder=""Search Google or type a URL"" required>
+      </div>
+    </div>
+  </body>
+</html>"
+/pages/searchpage/spdarkturquoise.jpg,"<!DOCTYPE html>
+<html lang=""en"" dir=""ltr"">
+  <head>
+    <meta charset=""utf-8"">
+    <title></title>
+    <link href='https://fonts.googleapis.com/css?family=Noto Sans HK' rel='stylesheet'>
+    <link href=""https://fonts.googleapis.com/icon?family=Material+Icons"" rel=""stylesheet"">
+    <link rel=""stylesheet"" href=""file:///D:/css/css/all.css"">
+  <style>
+    .google {
+      
+      font-size: 36px; 
+    }
+    
+    .g {
+      color: #4285F4;}
+
+    .o {
+      color: #EA4335; 
+    }
+
+    .o2 {
+      color: #FBBC05;}
+
+    .g2 {
+      color: #34A853;}
+
+    .l {
+      color: #4CAF50; }
+
+    .e {
+      color: #4285F4;}
+
+      body {
+        margin: 0;
+        padding: 0;
+        background:#00CED1;
+      }
+      .main {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%,-100%);
+      }
+      
+      .searchb {
+        top: 190px;
+        width: 450px;
+        height: 45px;
+        position: absolute;
+        transform: translate(-20%,50%);
+      }
+      input[type=""text""] {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        border-radius: 50px;
+        border: 1px solid #d5d4d4;
+        outline: none;
+        padding: 0 40px 0 45px;
+        font-size: 16px;
+        font-family: noto sans hk;
+        box-shadow: 0 2px 10px -7px #000;
+      }
+      .searchicon {
+        top: 13px;
+        left: 18px;
+        color: #777;
+        font-size: 21px;
+        z-index: 1;
+        position: absolute;
+      }
+    </style>
+  </head>
+  <body>
+<br><br>
+    <div class=""main"">
+       <br><br>
+ <div class=""google""><h1>
+    <span class=""g"">G</span>
+    <span class=""o"">o</span>
+    <span class=""o2"">o</span>
+    <span class=""g2"">g</span>
+    <span class=""l"">l</span>
+    <span class=""e"">e</span></h1>
+  </div>
+      <div class=""searchb"">
+        <span class=""material-icons searchicon"">search</span>
+        <input type=""text"" value="""" placeholder=""Search Google or type a URL"" required>
+      </div>
+    </div>
+  </body>
+</html>"
+/pages/searchpage/spcadetblue.jpg,"<!DOCTYPE html>
+<html lang=""en"" dir=""ltr"">
+  <head>
+    <meta charset=""utf-8"">
+    <title></title>
+    <link href='https://fonts.googleapis.com/css?family=Noto Sans HK' rel='stylesheet'>
+    <link href=""https://fonts.googleapis.com/icon?family=Material+Icons"" rel=""stylesheet"">
+    <link rel=""stylesheet"" href=""file:///D:/css/css/all.css"">
+  <style>
+    .google {
+      
+      font-size: 36px; 
+    }
+    
+    .g {
+      color: #4285F4;}
+
+    .o {
+      color: #EA4335; 
+    }
+
+    .o2 {
+      color: #FBBC05;}
+
+    .g2 {
+      color: #34A853;}
+
+    .l {
+      color: #4CAF50; }
+
+    .e {
+      color: #4285F4;}
+
+      body {
+        margin: 0;
+        padding: 0;
+        background: #5F9EA0;
+      }
+      .main {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%,-100%);
+      }
+      
+      .searchb {
+        top: 190px;
+        width: 450px;
+        height: 45px;
+        position: absolute;
+        transform: translate(-20%,50%);
+      }
+      input[type=""text""] {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        border-radius: 50px;
+        border: 1px solid #d5d4d4;
+        outline: none;
+        padding: 0 40px 0 45px;
+        font-size: 16px;
+        font-family: noto sans hk;
+        box-shadow: 0 2px 10px -7px #000;
+      }
+      .searchicon {
+        top: 13px;
+        left: 18px;
+        color: #777;
+        font-size: 21px;
+        z-index: 1;
+        position: absolute;
+      }
+    </style>
+  </head>
+  <body>
+<br><br>
+    <div class=""main"">
+       <br><br>
+ <div class=""google""><h1>
+    <span class=""g"">G</span>
+    <span class=""o"">o</span>
+    <span class=""o2"">o</span>
+    <span class=""g2"">g</span>
+    <span class=""l"">l</span>
+    <span class=""e"">e</span></h1>
+  </div>
+      <div class=""searchb"">
+        <span class=""material-icons searchicon"">search</span>
+        <input type=""text"" value="""" placeholder=""Search Google or type a URL"" required>
+      </div>
+    </div>
+  </body>
+</html>"
+/pages/searchpage/spolive.jpg,"<!DOCTYPE html>
+<html lang=""en"" dir=""ltr"">
+  <head>
+    <meta charset=""utf-8"">
+    <title></title>
+    <link href='https://fonts.googleapis.com/css?family=Noto Sans HK' rel='stylesheet'>
+    <link href=""https://fonts.googleapis.com/icon?family=Material+Icons"" rel=""stylesheet"">
+    <link rel=""stylesheet"" href=""file:///D:/css/css/all.css"">
+  <style>
+    .google {
+      
+      font-size: 36px; 
+    }
+    
+    .g {
+      color: #4285F4;}
+
+    .o {
+      color: #EA4335; 
+    }
+
+    .o2 {
+      color: #FBBC05;}
+
+    .g2 {
+      color: #34A853;}
+
+    .l {
+      color: #4CAF50; }
+
+    .e {
+      color: #4285F4;}
+
+      body {
+        margin: 0;
+        padding: 0;
+        background: #808000;
+      }
+      .main {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%,-100%);
+      }
+      
+      .searchb {
+        top: 190px;
+        width: 450px;
+        height: 45px;
+        position: absolute;
+        transform: translate(-20%,50%);
+      }
+      input[type=""text""] {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        border-radius: 50px;
+        border: 1px solid #d5d4d4;
+        outline: none;
+        padding: 0 40px 0 45px;
+        font-size: 16px;
+        font-family: noto sans hk;
+        box-shadow: 0 2px 10px -7px #000;
+      }
+      .searchicon {
+        top: 13px;
+        left: 18px;
+        color: #777;
+        font-size: 21px;
+        z-index: 1;
+        position: absolute;
+      }
+    </style>
+  </head>
+  <body>
+<br><br>
+    <div class=""main"">
+       <br><br>
+ <div class=""google""><h1>
+    <span class=""g"">G</span>
+    <span class=""o"">o</span>
+    <span class=""o2"">o</span>
+    <span class=""g2"">g</span>
+    <span class=""l"">l</span>
+    <span class=""e"">e</span></h1>
+  </div>
+      <div class=""searchb"">
+        <span class=""material-icons searchicon"">search</span>
+        <input type=""text"" value="""" placeholder=""Search Google or type a URL"" required>
+      </div>
+    </div>
+  </body>
+</html>"
+/pages/searchpage/spspolivedrab.jpg,"<!DOCTYPE html>
+<html lang=""en"" dir=""ltr"">
+  <head>
+    <meta charset=""utf-8"">
+    <title></title>
+    <link href='https://fonts.googleapis.com/css?family=Noto Sans HK' rel='stylesheet'>
+    <link href=""https://fonts.googleapis.com/icon?family=Material+Icons"" rel=""stylesheet"">
+    <link rel=""stylesheet"" href=""file:///D:/css/css/all.css"">
+  <style>
+    .google {
+      
+      font-size: 36px; 
+    }
+    
+    .g {
+      color: #4285F4;}
+
+    .o {
+      color: #EA4335; 
+    }
+
+    .o2 {
+      color: #FBBC05;}
+
+    .g2 {
+      color: #34A853;}
+
+    .l {
+      color: #4CAF50; }
+
+    .e {
+      color: #4285F4;}
+
+      body {
+        margin: 0;
+        padding: 0;
+        background: #6B8E23;
+      }
+      .main {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%,-100%);
+      }
+      
+      .searchb {
+        top: 190px;
+        width: 450px;
+        height: 45px;
+        position: absolute;
+        transform: translate(-20%,50%);
+      }
+      input[type=""text""] {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        border-radius: 50px;
+        border: 1px solid #d5d4d4;
+        outline: none;
+        padding: 0 40px 0 45px;
+        font-size: 16px;
+        font-family: noto sans hk;
+        box-shadow: 0 2px 10px -7px #000;
+      }
+      .searchicon {
+        top: 13px;
+        left: 18px;
+        color: #777;
+        font-size: 21px;
+        z-index: 1;
+        position: absolute;
+      }
+    </style>
+  </head>
+  <body>
+<br><br>
+    <div class=""main"">
+       <br><br>
+ <div class=""google""><h1>
+    <span class=""g"">G</span>
+    <span class=""o"">o</span>
+    <span class=""o2"">o</span>
+    <span class=""g2"">g</span>
+    <span class=""l"">l</span>
+    <span class=""e"">e</span></h1>
+  </div>
+      <div class=""searchb"">
+        <span class=""material-icons searchicon"">search</span>
+        <input type=""text"" value="""" placeholder=""Search Google or type a URL"" required>
+      </div>
+    </div>
+  </body>
+</html>"
+/pages/searchpage/splightc.jpg,"<!DOCTYPE html>
+<html lang=""en"" dir=""ltr"">
+  <head>
+    <meta charset=""utf-8"">
+    <title></title>
+    <link href='https://fonts.googleapis.com/css?family=Noto Sans HK' rel='stylesheet'>
+    <link href=""https://fonts.googleapis.com/icon?family=Material+Icons"" rel=""stylesheet"">
+    <link rel=""stylesheet"" href=""file:///D:/css/css/all.css"">
+  <style>
+    .google {
+      
+      font-size: 36px; 
+    }
+    
+    .g {
+      color: #4285F4;}
+
+    .o {
+      color: #EA4335; 
+    }
+
+    .o2 {
+      color: #FBBC05;}
+
+    .g2 {
+      color: #34A853;}
+
+    .l {
+      color: #4CAF50; }
+
+    .e {
+      color: #4285F4;}
+
+      body {
+        margin: 0;
+        padding: 0;
+        background: #8A5757;
+      }
+      .main {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%,-100%);
+      }
+      
+      .searchb {
+        top: 190px;
+        width: 450px;
+        height: 45px;
+        position: absolute;
+        transform: translate(-20%,50%);
+      }
+      input[type=""text""] {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        border-radius: 50px;
+        border: 1px solid #d5d4d4;
+        outline: none;
+        padding: 0 40px 0 45px;
+        font-size: 16px;
+        font-family: noto sans hk;
+        box-shadow: 0 2px 10px -7px #000;
+      }
+      .searchicon {
+        top: 13px;
+        left: 18px;
+        color: #777;
+        font-size: 21px;
+        z-index: 1;
+        position: absolute;
+      }
+    </style>
+  </head>
+  <body>
+<br><br>
+    <div class=""main"">
+       <br><br>
+ <div class=""google""><h1>
+    <span class=""g"">G</span>
+    <span class=""o"">o</span>
+    <span class=""o2"">o</span>
+    <span class=""g2"">g</span>
+    <span class=""l"">l</span>
+    <span class=""e"">e</span></h1>
+  </div>
+      <div class=""searchb"">
+        <span class=""material-icons searchicon"">search</span>
+        <input type=""text"" value="""" placeholder=""Search Google or type a URL"" required>
+      </div>
+    </div>
+  </body>
+</html>"
+/pages/searchpage/ssalmon.jpg,"<!DOCTYPE html>
+<html lang=""en"" dir=""ltr"">
+  <head>
+    <meta charset=""utf-8"">
+    <title></title>
+    <link href='https://fonts.googleapis.com/css?family=Noto Sans HK' rel='stylesheet'>
+    <link href=""https://fonts.googleapis.com/icon?family=Material+Icons"" rel=""stylesheet"">
+    <link rel=""stylesheet"" href=""file:///D:/css/css/all.css"">
+  <style>
+    .google {
+      
+      font-size: 36px; 
+    }
+    
+    .g {
+      color: #4285F4;}
+
+    .o {
+      color: #EA4335; 
+    }
+
+    .o2 {
+      color: #FBBC05;}
+
+    .g2 {
+      color: #34A853;}
+
+    .l {
+      color: #4CAF50; }
+
+    .e {
+      color: #4285F4;}
+
+      body {
+        margin: 0;
+        padding: 0;
+        background:#FA8072;
+      }
+      .main {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%,-100%);
+      }
+      
+      .searchb {
+        top: 190px;
+        width: 450px;
+        height: 45px;
+        position: absolute;
+        transform: translate(-20%,50%);
+      }
+      input[type=""text""] {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        border-radius: 50px;
+        border: 1px solid #d5d4d4;
+        outline: none;
+        padding: 0 40px 0 45px;
+        font-size: 16px;
+        font-family: noto sans hk;
+        box-shadow: 0 2px 10px -7px #000;
+      }
+      .searchicon {
+        top: 13px;
+        left: 18px;
+        color: #777;
+        font-size: 21px;
+        z-index: 1;
+        position: absolute;
+      }
+    </style>
+  </head>
+  <body>
+<br><br>
+    <div class=""main"">
+       <br><br>
+ <div class=""google""><h1>
+    <span class=""g"">G</span>
+    <span class=""o"">o</span>
+    <span class=""o2"">o</span>
+    <span class=""g2"">g</span>
+    <span class=""l"">l</span>
+    <span class=""e"">e</span></h1>
+  </div>
+      <div class=""searchb"">
+        <span class=""material-icons searchicon"">search</span>
+        <input type=""text"" value="""" placeholder=""Search Google or type a URL"" required>
+      </div>
+    </div>
+  </body>
+</html>"
+/pages/searchpage/sred.jpg,"<!DOCTYPE html>
+<html lang=""en"" dir=""ltr"">
+  <head>
+    <meta charset=""utf-8"">
+    <title></title>
+    <link href='https://fonts.googleapis.com/css?family=Noto Sans HK' rel='stylesheet'>
+    <link href=""https://fonts.googleapis.com/icon?family=Material+Icons"" rel=""stylesheet"">
+    <link rel=""stylesheet"" href=""file:///D:/css/css/all.css"">
+  <style>
+    .google {
+      
+      font-size: 36px; 
+    }
+    
+    .g {
+      color: #4285F4;}
+
+    .o {
+      color: #EA4335; 
+    }
+
+    .o2 {
+      color: #FBBC05;}
+
+    .g2 {
+      color: #34A853;}
+
+    .l {
+      color: #4CAF50; }
+
+    .e {
+      color: #4285F4;}
+
+      body {
+        margin: 0;
+        padding: 0;
+        background:#FF0000;
+      }
+      .main {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%,-100%);
+      }
+      
+      .searchb {
+        top: 190px;
+        width: 450px;
+        height: 45px;
+        position: absolute;
+        transform: translate(-20%,50%);
+      }
+      input[type=""text""] {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        border-radius: 50px;
+        border: 1px solid #d5d4d4;
+        outline: none;
+        padding: 0 40px 0 45px;
+        font-size: 16px;
+        font-family: noto sans hk;
+        box-shadow: 0 2px 10px -7px #000;
+      }
+      .searchicon {
+        top: 13px;
+        left: 18px;
+        color: #777;
+        font-size: 21px;
+        z-index: 1;
+        position: absolute;
+      }
+    </style>
+  </head>
+  <body>
+<br><br>
+    <div class=""main"">
+       <br><br>
+ <div class=""google""><h1>
+    <span class=""g"">G</span>
+    <span class=""o"">o</span>
+    <span class=""o2"">o</span>
+    <span class=""g2"">g</span>
+    <span class=""l"">l</span>
+    <span class=""e"">e</span></h1>
+  </div>
+      <div class=""searchb"">
+        <span class=""material-icons searchicon"">search</span>
+        <input type=""text"" value="""" placeholder=""Search Google or type a URL"" required>
+      </div>
+    </div>
+  </body>
+</html>"
+/pages/searchpage/slightpink.jpg,"<!DOCTYPE html>
+<html lang=""en"" dir=""ltr"">
+  <head>
+    <meta charset=""utf-8"">
+    <title></title>
+    <link href='https://fonts.googleapis.com/css?family=Noto Sans HK' rel='stylesheet'>
+    <link href=""https://fonts.googleapis.com/icon?family=Material+Icons"" rel=""stylesheet"">
+    <link rel=""stylesheet"" href=""file:///D:/css/css/all.css"">
+  <style>
+    .google {
+      
+      font-size: 36px; 
+    }
+    
+    .g {
+      color: #4285F4;}
+
+    .o {
+      color: #EA4335; 
+    }
+
+    .o2 {
+      color: #FBBC05;}
+
+    .g2 {
+      color: #34A853;}
+
+    .l {
+      color: #4CAF50; }
+
+    .e {
+      color: #4285F4;}
+
+      body {
+        margin: 0;
+        padding: 0;
+        background:#FFB6C1;
+      }
+      .main {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%,-100%);
+      }
+      
+      .searchb {
+        top: 190px;
+        width: 450px;
+        height: 45px;
+        position: absolute;
+        transform: translate(-20%,50%);
+      }
+      input[type=""text""] {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        border-radius: 50px;
+        border: 1px solid #d5d4d4;
+        outline: none;
+        padding: 0 40px 0 45px;
+        font-size: 16px;
+        font-family: noto sans hk;
+        box-shadow: 0 2px 10px -7px #000;
+      }
+      .searchicon {
+        top: 13px;
+        left: 18px;
+        color: #777;
+        font-size: 21px;
+        z-index: 1;
+        position: absolute;
+      }
+    </style>
+  </head>
+  <body>
+<br><br>
+    <div class=""main"">
+       <br><br>
+ <div class=""google""><h1>
+    <span class=""g"">G</span>
+    <span class=""o"">o</span>
+    <span class=""o2"">o</span>
+    <span class=""g2"">g</span>
+    <span class=""l"">l</span>
+    <span class=""e"">e</span></h1>
+  </div>
+      <div class=""searchb"">
+        <span class=""material-icons searchicon"">search</span>
+        <input type=""text"" value="""" placeholder=""Search Google or type a URL"" required>
+      </div>
+    </div>
+  </body>
+</html>"
+/pages/searchpage/shotpink.jpg,"<!DOCTYPE html>
+<html lang=""en"" dir=""ltr"">
+  <head>
+    <meta charset=""utf-8"">
+    <title></title>
+    <link href='https://fonts.googleapis.com/css?family=Noto Sans HK' rel='stylesheet'>
+    <link href=""https://fonts.googleapis.com/icon?family=Material+Icons"" rel=""stylesheet"">
+    <link rel=""stylesheet"" href=""file:///D:/css/css/all.css"">
+  <style>
+    .google {
+      
+      font-size: 36px; 
+    }
+    
+    .g {
+      color: #4285F4;}
+
+    .o {
+      color: #EA4335; 
+    }
+
+    .o2 {
+      color: #FBBC05;}
+
+    .g2 {
+      color: #34A853;}
+
+    .l {
+      color: #4CAF50; }
+
+    .e {
+      color: #4285F4;}
+
+      body {
+        margin: 0;
+        padding: 0;
+        background:#FF69B4;
+      }
+      .main {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%,-100%);
+      }
+      
+      .searchb {
+        top: 190px;
+        width: 450px;
+        height: 45px;
+        position: absolute;
+        transform: translate(-20%,50%);
+      }
+      input[type=""text""] {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        border-radius: 50px;
+        border: 1px solid #d5d4d4;
+        outline: none;
+        padding: 0 40px 0 45px;
+        font-size: 16px;
+        font-family: noto sans hk;
+        box-shadow: 0 2px 10px -7px #000;
+      }
+      .searchicon {
+        top: 13px;
+        left: 18px;
+        color: #777;
+        font-size: 21px;
+        z-index: 1;
+        position: absolute;
+      }
+    </style>
+  </head>
+  <body>
+<br><br>
+    <div class=""main"">
+       <br><br>
+ <div class=""google""><h1>
+    <span class=""g"">G</span>
+    <span class=""o"">o</span>
+    <span class=""o2"">o</span>
+    <span class=""g2"">g</span>
+    <span class=""l"">l</span>
+    <span class=""e"">e</span></h1>
+  </div>
+      <div class=""searchb"">
+        <span class=""material-icons searchicon"">search</span>
+        <input type=""text"" value="""" placeholder=""Search Google or type a URL"" required>
+      </div>
+    </div>
+  </body>
+</html>"
+/pages/searchpage/smediumvioletred.jpg,"<!DOCTYPE html>
+<html lang=""en"" dir=""ltr"">
+  <head>
+    <meta charset=""utf-8"">
+    <title></title>
+    <link href='https://fonts.googleapis.com/css?family=Noto Sans HK' rel='stylesheet'>
+    <link href=""https://fonts.googleapis.com/icon?family=Material+Icons"" rel=""stylesheet"">
+    <link rel=""stylesheet"" href=""file:///D:/css/css/all.css"">
+  <style>
+    .google {
+      
+      font-size: 36px; 
+    }
+    
+    .g {
+      color: #4285F4;}
+
+    .o {
+      color: #EA4335; 
+    }
+
+    .o2 {
+      color: #FBBC05;}
+
+    .g2 {
+      color: #34A853;}
+
+    .l {
+      color: #4CAF50; }
+
+    .e {
+      color: #4285F4;}
+
+      body {
+        margin: 0;
+        padding: 0;
+        background:#C71585;
+      }
+      .main {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%,-100%);
+      }
+      
+      .searchb {
+        top: 190px;
+        width: 450px;
+        height: 45px;
+        position: absolute;
+        transform: translate(-20%,50%);
+      }
+      input[type=""text""] {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        border-radius: 50px;
+        border: 1px solid #d5d4d4;
+        outline: none;
+        padding: 0 40px 0 45px;
+        font-size: 16px;
+        font-family: noto sans hk;
+        box-shadow: 0 2px 10px -7px #000;
+      }
+      .searchicon {
+        top: 13px;
+        left: 18px;
+        color: #777;
+        font-size: 21px;
+        z-index: 1;
+        position: absolute;
+      }
+    </style>
+  </head>
+  <body>
+<br><br>
+    <div class=""main"">
+       <br><br>
+ <div class=""google""><h1>
+    <span class=""g"">G</span>
+    <span class=""o"">o</span>
+    <span class=""o2"">o</span>
+    <span class=""g2"">g</span>
+    <span class=""l"">l</span>
+    <span class=""e"">e</span></h1>
+  </div>
+      <div class=""searchb"">
+        <span class=""material-icons searchicon"">search</span>
+        <input type=""text"" value="""" placeholder=""Search Google or type a URL"" required>
+      </div>
+    </div>
+  </body>
+</html>"
+/pages/searchpage/stomato.jpg,"<!DOCTYPE html>
+<html lang=""en"" dir=""ltr"">
+  <head>
+    <meta charset=""utf-8"">
+    <title></title>
+    <link href='https://fonts.googleapis.com/css?family=Noto Sans HK' rel='stylesheet'>
+    <link href=""https://fonts.googleapis.com/icon?family=Material+Icons"" rel=""stylesheet"">
+    <link rel=""stylesheet"" href=""file:///D:/css/css/all.css"">
+  <style>
+    .google {
+      
+      font-size: 36px; 
+    }
+    
+    .g {
+      color: #4285F4;}
+
+    .o {
+      color: #EA4335; 
+    }
+
+    .o2 {
+      color: #FBBC05;}
+
+    .g2 {
+      color: #34A853;}
+
+    .l {
+      color: #4CAF50; }
+
+    .e {
+      color: #4285F4;}
+
+      body {
+        margin: 0;
+        padding: 0;
+        background:#FF6347;
+      }
+      .main {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%,-100%);
+      }
+      
+      .searchb {
+        top: 190px;
+        width: 450px;
+        height: 45px;
+        position: absolute;
+        transform: translate(-20%,50%);
+      }
+      input[type=""text""] {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        border-radius: 50px;
+        border: 1px solid #d5d4d4;
+        outline: none;
+        padding: 0 40px 0 45px;
+        font-size: 16px;
+        font-family: noto sans hk;
+        box-shadow: 0 2px 10px -7px #000;
+      }
+      .searchicon {
+        top: 13px;
+        left: 18px;
+        color: #777;
+        font-size: 21px;
+        z-index: 1;
+        position: absolute;
+      }
+    </style>
+  </head>
+  <body>
+<br><br>
+    <div class=""main"">
+       <br><br>
+ <div class=""google""><h1>
+    <span class=""g"">G</span>
+    <span class=""o"">o</span>
+    <span class=""o2"">o</span>
+    <span class=""g2"">g</span>
+    <span class=""l"">l</span>
+    <span class=""e"">e</span></h1>
+  </div>
+      <div class=""searchb"">
+        <span class=""material-icons searchicon"">search</span>
+        <input type=""text"" value="""" placeholder=""Search Google or type a URL"" required>
+      </div>
+    </div>
+  </body>
+</html>"
+/pages/searchpage/sorange.jpg,"<!DOCTYPE html>
+<html lang=""en"" dir=""ltr"">
+  <head>
+    <meta charset=""utf-8"">
+    <title></title>
+    <link href='https://fonts.googleapis.com/css?family=Noto Sans HK' rel='stylesheet'>
+    <link href=""https://fonts.googleapis.com/icon?family=Material+Icons"" rel=""stylesheet"">
+    <link rel=""stylesheet"" href=""file:///D:/css/css/all.css"">
+  <style>
+    .google {
+      
+      font-size: 36px; 
+    }
+    
+    .g {
+      color: #4285F4;}
+
+    .o {
+      color: #EA4335; 
+    }
+
+    .o2 {
+      color: #FBBC05;}
+
+    .g2 {
+      color: #34A853;}
+
+    .l {
+      color: #4CAF50; }
+
+    .e {
+      color: #4285F4;}
+
+      body {
+        margin: 0;
+        padding: 0;
+        background:#FFA500;
+      }
+      .main {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%,-100%);
+      }
+      
+      .searchb {
+        top: 190px;
+        width: 450px;
+        height: 45px;
+        position: absolute;
+        transform: translate(-20%,50%);
+      }
+      input[type=""text""] {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        border-radius: 50px;
+        border: 1px solid #d5d4d4;
+        outline: none;
+        padding: 0 40px 0 45px;
+        font-size: 16px;
+        font-family: noto sans hk;
+        box-shadow: 0 2px 10px -7px #000;
+      }
+      .searchicon {
+        top: 13px;
+        left: 18px;
+        color: #777;
+        font-size: 21px;
+        z-index: 1;
+        position: absolute;
+      }
+    </style>
+  </head>
+  <body>
+<br><br>
+    <div class=""main"">
+       <br><br>
+ <div class=""google""><h1>
+    <span class=""g"">G</span>
+    <span class=""o"">o</span>
+    <span class=""o2"">o</span>
+    <span class=""g2"">g</span>
+    <span class=""l"">l</span>
+    <span class=""e"">e</span></h1>
+  </div>
+      <div class=""searchb"">
+        <span class=""material-icons searchicon"">search</span>
+        <input type=""text"" value="""" placeholder=""Search Google or type a URL"" required>
+      </div>
+    </div>
+  </body>
+</html>"
+/pages/searchpage/slemon.jpg,"<!DOCTYPE html>
+<html lang=""en"" dir=""ltr"">
+  <head>
+    <meta charset=""utf-8"">
+    <title></title>
+    <link href='https://fonts.googleapis.com/css?family=Noto Sans HK' rel='stylesheet'>
+    <link href=""https://fonts.googleapis.com/icon?family=Material+Icons"" rel=""stylesheet"">
+    <link rel=""stylesheet"" href=""file:///D:/css/css/all.css"">
+  <style>
+    .google {
+      
+      font-size: 36px; 
+    }
+    
+    .g {
+      color: #4285F4;}
+
+    .o {
+      color: #EA4335; 
+    }
+
+    .o2 {
+      color: #FBBC05;}
+
+    .g2 {
+      color: #34A853;}
+
+    .l {
+      color: #4CAF50; }
+
+    .e {
+      color: #4285F4;}
+
+      body {
+        margin: 0;
+        padding: 0;
+        background:LemonChiffon;
+      }
+      .main {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%,-100%);
+      }
+      
+      .searchb {
+        top: 190px;
+        width: 450px;
+        height: 45px;
+        position: absolute;
+        transform: translate(-20%,50%);
+      }
+      input[type=""text""] {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        border-radius: 50px;
+        border: 1px solid #d5d4d4;
+        outline: none;
+        padding: 0 40px 0 45px;
+        font-size: 16px;
+        font-family: noto sans hk;
+        box-shadow: 0 2px 10px -7px #000;
+      }
+      .searchicon {
+        top: 13px;
+        left: 18px;
+        color: #777;
+        font-size: 21px;
+        z-index: 1;
+        position: absolute;
+      }
+    </style>
+  </head>
+  <body>
+<br><br>
+    <div class=""main"">
+       <br><br>
+ <div class=""google""><h1>
+    <span class=""g"">G</span>
+    <span class=""o"">o</span>
+    <span class=""o2"">o</span>
+    <span class=""g2"">g</span>
+    <span class=""l"">l</span>
+    <span class=""e"">e</span></h1>
+  </div>
+      <div class=""searchb"">
+        <span class=""material-icons searchicon"">search</span>
+        <input type=""text"" value="""" placeholder=""Search Google or type a URL"" required>
+      </div>
+    </div>
+  </body>
+</html>"
+/pages/searchpage/speach.jpg,"<!DOCTYPE html>
+<html lang=""en"" dir=""ltr"">
+  <head>
+    <meta charset=""utf-8"">
+    <title></title>
+    <link href='https://fonts.googleapis.com/css?family=Noto Sans HK' rel='stylesheet'>
+    <link href=""https://fonts.googleapis.com/icon?family=Material+Icons"" rel=""stylesheet"">
+    <link rel=""stylesheet"" href=""file:///D:/css/css/all.css"">
+  <style>
+    .google {
+      
+      font-size: 36px; 
+    }
+    
+    .g {
+      color: #4285F4;}
+
+    .o {
+      color: #EA4335; 
+    }
+
+    .o2 {
+      color: #FBBC05;}
+
+    .g2 {
+      color: #34A853;}
+
+    .l {
+      color: #4CAF50; }
+
+    .e {
+      color: #4285F4;}
+
+      body {
+        margin: 0;
+        padding: 0;
+        background:#FFDAB9;
+      }
+      .main {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%,-100%);
+      }
+      
+      .searchb {
+        top: 190px;
+        width: 450px;
+        height: 45px;
+        position: absolute;
+        transform: translate(-20%,50%);
+      }
+      input[type=""text""] {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        border-radius: 50px;
+        border: 1px solid #d5d4d4;
+        outline: none;
+        padding: 0 40px 0 45px;
+        font-size: 16px;
+        font-family: noto sans hk;
+        box-shadow: 0 2px 10px -7px #000;
+      }
+      .searchicon {
+        top: 13px;
+        left: 18px;
+        color: #777;
+        font-size: 21px;
+        z-index: 1;
+        position: absolute;
+      }
+    </style>
+  </head>
+  <body>
+<br><br>
+    <div class=""main"">
+       <br><br>
+ <div class=""google""><h1>
+    <span class=""g"">G</span>
+    <span class=""o"">o</span>
+    <span class=""o2"">o</span>
+    <span class=""g2"">g</span>
+    <span class=""l"">l</span>
+    <span class=""e"">e</span></h1>
+  </div>
+      <div class=""searchb"">
+        <span class=""material-icons searchicon"">search</span>
+        <input type=""text"" value="""" placeholder=""Search Google or type a URL"" required>
+      </div>
+    </div>
+  </body>
+</html>"
+/pages/searchpage/skhaki.jpg,"<!DOCTYPE html>
+<html lang=""en"" dir=""ltr"">
+  <head>
+    <meta charset=""utf-8"">
+    <title></title>
+    <link href='https://fonts.googleapis.com/css?family=Noto Sans HK' rel='stylesheet'>
+    <link href=""https://fonts.googleapis.com/icon?family=Material+Icons"" rel=""stylesheet"">
+    <link rel=""stylesheet"" href=""file:///D:/css/css/all.css"">
+  <style>
+    .google {
+      
+      font-size: 36px; 
+    }
+    
+    .g {
+      color: #4285F4;}
+
+    .o {
+      color: #EA4335; 
+    }
+
+    .o2 {
+      color: #FBBC05;}
+
+    .g2 {
+      color: #34A853;}
+
+    .l {
+      color: #4CAF50; }
+
+    .e {
+      color: #4285F4;}
+
+      body {
+        margin: 0;
+        padding: 0;
+        background:#F0E68C;
+      }
+      .main {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%,-100%);
+      }
+      
+      .searchb {
+        top: 190px;
+        width: 450px;
+        height: 45px;
+        position: absolute;
+        transform: translate(-20%,50%);
+      }
+      input[type=""text""] {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        border-radius: 50px;
+        border: 1px solid #d5d4d4;
+        outline: none;
+        padding: 0 40px 0 45px;
+        font-size: 16px;
+        font-family: noto sans hk;
+        box-shadow: 0 2px 10px -7px #000;
+      }
+      .searchicon {
+        top: 13px;
+        left: 18px;
+        color: #777;
+        font-size: 21px;
+        z-index: 1;
+        position: absolute;
+      }
+    </style>
+  </head>
+  <body>
+<br><br>
+    <div class=""main"">
+       <br><br>
+ <div class=""google""><h1>
+    <span class=""g"">G</span>
+    <span class=""o"">o</span>
+    <span class=""o2"">o</span>
+    <span class=""g2"">g</span>
+    <span class=""l"">l</span>
+    <span class=""e"">e</span></h1>
+  </div>
+      <div class=""searchb"">
+        <span class=""material-icons searchicon"">search</span>
+        <input type=""text"" value="""" placeholder=""Search Google or type a URL"" required>
+      </div>
+    </div>
+  </body>
+</html>"
+/pages/searchpage/slavendar.jpg,"<!DOCTYPE html>
+<html lang=""en"" dir=""ltr"">
+  <head>
+    <meta charset=""utf-8"">
+    <title></title>
+    <link href='https://fonts.googleapis.com/css?family=Noto Sans HK' rel='stylesheet'>
+    <link href=""https://fonts.googleapis.com/icon?family=Material+Icons"" rel=""stylesheet"">
+    <link rel=""stylesheet"" href=""file:///D:/css/css/all.css"">
+  <style>
+    .google {
+      
+      font-size: 36px; 
+    }
+    
+    .g {
+      color: #4285F4;}
+
+    .o {
+      color: #EA4335; 
+    }
+
+    .o2 {
+      color: #FBBC05;}
+
+    .g2 {
+      color: #34A853;}
+
+    .l {
+      color: #4CAF50; }
+
+    .e {
+      color: #4285F4;}
+
+      body {
+        margin: 0;
+        padding: 0;
+        background: #E6E6FA;
+      }
+      .main {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%,-100%);
+      }
+      
+      .searchb {
+        top: 190px;
+        width: 450px;
+        height: 45px;
+        position: absolute;
+        transform: translate(-20%,50%);
+      }
+      input[type=""text""] {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        border-radius: 50px;
+        border: 1px solid #d5d4d4;
+        outline: none;
+        padding: 0 40px 0 45px;
+        font-size: 16px;
+        font-family: noto sans hk;
+        box-shadow: 0 2px 10px -7px #000;
+      }
+      .searchicon {
+        top: 13px;
+        left: 18px;
+        color: #777;
+        font-size: 21px;
+        z-index: 1;
+        position: absolute;
+      }
+    </style>
+  </head>
+  <body>
+<br><br>
+    <div class=""main"">
+       <br><br>
+ <div class=""google""><h1>
+    <span class=""g"">G</span>
+    <span class=""o"">o</span>
+    <span class=""o2"">o</span>
+    <span class=""g2"">g</span>
+    <span class=""l"">l</span>
+    <span class=""e"">e</span></h1>
+  </div>
+      <div class=""searchb"">
+        <span class=""material-icons searchicon"">search</span>
+        <input type=""text"" value="""" placeholder=""Search Google or type a URL"" required>
+      </div>
+    </div>
+  </body>
+</html>"
+/pages/searchpage/sthistle.jpg,"<!DOCTYPE html>
+<html lang=""en"" dir=""ltr"">
+  <head>
+    <meta charset=""utf-8"">
+    <title></title>
+    <link href='https://fonts.googleapis.com/css?family=Noto Sans HK' rel='stylesheet'>
+    <link href=""https://fonts.googleapis.com/icon?family=Material+Icons"" rel=""stylesheet"">
+    <link rel=""stylesheet"" href=""file:///D:/css/css/all.css"">
+  <style>
+    .google {
+      
+      font-size: 36px; 
+    }
+    
+    .g {
+      color: #4285F4;}
+
+    .o {
+      color: #EA4335; 
+    }
+
+    .o2 {
+      color: #FBBC05;}
+
+    .g2 {
+      color: #34A853;}
+
+    .l {
+      color: #4CAF50; }
+
+    .e {
+      color: #4285F4;}
+
+      body {
+        margin: 0;
+        padding: 0;
+        background: #D8BFD8;
+      }
+      .main {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%,-100%);
+      }
+      
+      .searchb {
+        top: 190px;
+        width: 450px;
+        height: 45px;
+        position: absolute;
+        transform: translate(-20%,50%);
+      }
+      input[type=""text""] {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        border-radius: 50px;
+        border: 1px solid #d5d4d4;
+        outline: none;
+        padding: 0 40px 0 45px;
+        font-size: 16px;
+        font-family: noto sans hk;
+        box-shadow: 0 2px 10px -7px #000;
+      }
+      .searchicon {
+        top: 13px;
+        left: 18px;
+        color: #777;
+        font-size: 21px;
+        z-index: 1;
+        position: absolute;
+      }
+    </style>
+  </head>
+  <body>
+<br><br>
+    <div class=""main"">
+       <br><br>
+ <div class=""google""><h1>
+    <span class=""g"">G</span>
+    <span class=""o"">o</span>
+    <span class=""o2"">o</span>
+    <span class=""g2"">g</span>
+    <span class=""l"">l</span>
+    <span class=""e"">e</span></h1>
+  </div>
+      <div class=""searchb"">
+        <span class=""material-icons searchicon"">search</span>
+        <input type=""text"" value="""" placeholder=""Search Google or type a URL"" required>
+      </div>
+    </div>
+  </body>
+</html>"
+/pages/searchpage/sviolet.jpg,"<!DOCTYPE html>
+<html lang=""en"" dir=""ltr"">
+  <head>
+    <meta charset=""utf-8"">
+    <title></title>
+    <link href='https://fonts.googleapis.com/css?family=Noto Sans HK' rel='stylesheet'>
+    <link href=""https://fonts.googleapis.com/icon?family=Material+Icons"" rel=""stylesheet"">
+    <link rel=""stylesheet"" href=""file:///D:/css/css/all.css"">
+  <style>
+    .google {
+      
+      font-size: 36px; 
+    }
+    
+    .g {
+      color: #4285F4;}
+
+    .o {
+      color: #EA4335; 
+    }
+
+    .o2 {
+      color: #FBBC05;}
+
+    .g2 {
+      color: #34A853;}
+
+    .l {
+      color: #4CAF50; }
+
+    .e {
+      color: #4285F4;}
+
+      body {
+        margin: 0;
+        padding: 0;
+        background: #EE82EE;
+      }
+      .main {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%,-100%);
+      }
+      
+      .searchb {
+        top: 190px;
+        width: 450px;
+        height: 45px;
+        position: absolute;
+        transform: translate(-20%,50%);
+      }
+      input[type=""text""] {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        border-radius: 50px;
+        border: 1px solid #d5d4d4;
+        outline: none;
+        padding: 0 40px 0 45px;
+        font-size: 16px;
+        font-family: noto sans hk;
+        box-shadow: 0 2px 10px -7px #000;
+      }
+      .searchicon {
+        top: 13px;
+        left: 18px;
+        color: #777;
+        font-size: 21px;
+        z-index: 1;
+        position: absolute;
+      }
+    </style>
+  </head>
+  <body>
+<br><br>
+    <div class=""main"">
+       <br><br>
+ <div class=""google""><h1>
+    <span class=""g"">G</span>
+    <span class=""o"">o</span>
+    <span class=""o2"">o</span>
+    <span class=""g2"">g</span>
+    <span class=""l"">l</span>
+    <span class=""e"">e</span></h1>
+  </div>
+      <div class=""searchb"">
+        <span class=""material-icons searchicon"">search</span>
+        <input type=""text"" value="""" placeholder=""Search Google or type a URL"" required>
+      </div>
+    </div>
+  </body>
+</html>"
+/pages/searchpage/smediumpurple.jpg,"<!DOCTYPE html>
+<html lang=""en"" dir=""ltr"">
+  <head>
+    <meta charset=""utf-8"">
+    <title></title>
+    <link href='https://fonts.googleapis.com/css?family=Noto Sans HK' rel='stylesheet'>
+    <link href=""https://fonts.googleapis.com/icon?family=Material+Icons"" rel=""stylesheet"">
+    <link rel=""stylesheet"" href=""file:///D:/css/css/all.css"">
+  <style>
+    .google {
+      
+      font-size: 36px; 
+    }
+    
+    .g {
+      color: #4285F4;}
+
+    .o {
+      color: #EA4335; 
+    }
+
+    .o2 {
+      color: #FBBC05;}
+
+    .g2 {
+      color: #34A853;}
+
+    .l {
+      color: #4CAF50; }
+
+    .e {
+      color: #4285F4;}
+
+      body {
+        margin: 0;
+        padding: 0;
+        background: #9370DB;
+      }
+      .main {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%,-100%);
+      }
+      
+      .searchb {
+        top: 190px;
+        width: 450px;
+        height: 45px;
+        position: absolute;
+        transform: translate(-20%,50%);
+      }
+      input[type=""text""] {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        border-radius: 50px;
+        border: 1px solid #d5d4d4;
+        outline: none;
+        padding: 0 40px 0 45px;
+        font-size: 16px;
+        font-family: noto sans hk;
+        box-shadow: 0 2px 10px -7px #000;
+      }
+      .searchicon {
+        top: 13px;
+        left: 18px;
+        color: #777;
+        font-size: 21px;
+        z-index: 1;
+        position: absolute;
+      }
+    </style>
+  </head>
+  <body>
+<br><br>
+    <div class=""main"">
+       <br><br>
+ <div class=""google""><h1>
+    <span class=""g"">G</span>
+    <span class=""o"">o</span>
+    <span class=""o2"">o</span>
+    <span class=""g2"">g</span>
+    <span class=""l"">l</span>
+    <span class=""e"">e</span></h1>
+  </div>
+      <div class=""searchb"">
+        <span class=""material-icons searchicon"">search</span>
+        <input type=""text"" value="""" placeholder=""Search Google or type a URL"" required>
+      </div>
+    </div>
+  </body>
+</html>"
+/pages/searchpage/scharteuse.jpg,"<!DOCTYPE html>
+<html lang=""en"" dir=""ltr"">
+  <head>
+    <meta charset=""utf-8"">
+    <title></title>
+    <link href='https://fonts.googleapis.com/css?family=Noto Sans HK' rel='stylesheet'>
+    <link href=""https://fonts.googleapis.com/icon?family=Material+Icons"" rel=""stylesheet"">
+    <link rel=""stylesheet"" href=""file:///D:/css/css/all.css"">
+  <style>
+    .google {
+      
+      font-size: 36px; 
+    }
+    
+    .g {
+      color: #4285F4;}
+
+    .o {
+      color: #EA4335; 
+    }
+
+    .o2 {
+      color: #FBBC05;}
+
+    .g2 {
+      color: #34A853;}
+
+    .l {
+      color: #4CAF50; }
+
+    .e {
+      color: #4285F4;}
+
+      body {
+        margin: 0;
+        padding: 0;
+        background:#7FFF00;
+      }
+      .main {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%,-100%);
+      }
+      
+      .searchb {
+        top: 190px;
+        width: 450px;
+        height: 45px;
+        position: absolute;
+        transform: translate(-20%,50%);
+      }
+      input[type=""text""] {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        border-radius: 50px;
+        border: 1px solid #d5d4d4;
+        outline: none;
+        padding: 0 40px 0 45px;
+        font-size: 16px;
+        font-family: noto sans hk;
+        box-shadow: 0 2px 10px -7px #000;
+      }
+      .searchicon {
+        top: 13px;
+        left: 18px;
+        color: #777;
+        font-size: 21px;
+        z-index: 1;
+        position: absolute;
+      }
+    </style>
+  </head>
+  <body>
+<br><br>
+    <div class=""main"">
+       <br><br>
+ <div class=""google""><h1>
+    <span class=""g"">G</span>
+    <span class=""o"">o</span>
+    <span class=""o2"">o</span>
+    <span class=""g2"">g</span>
+    <span class=""l"">l</span>
+    <span class=""e"">e</span></h1>
+  </div>
+      <div class=""searchb"">
+        <span class=""material-icons searchicon"">search</span>
+        <input type=""text"" value="""" placeholder=""Search Google or type a URL"" required>
+      </div>
+    </div>
+  </body>
+</html>"
+/pages/searchpage/spalegreen.jpg,"<!DOCTYPE html>
+<html lang=""en"" dir=""ltr"">
+  <head>
+    <meta charset=""utf-8"">
+    <title></title>
+    <link href='https://fonts.googleapis.com/css?family=Noto Sans HK' rel='stylesheet'>
+    <link href=""https://fonts.googleapis.com/icon?family=Material+Icons"" rel=""stylesheet"">
+    <link rel=""stylesheet"" href=""file:///D:/css/css/all.css"">
+  <style>
+    .google {
+      
+      font-size: 36px; 
+    }
+    
+    .g {
+      color: #4285F4;}
+
+    .o {
+      color: #EA4335; 
+    }
+
+    .o2 {
+      color: #FBBC05;}
+
+    .g2 {
+      color: #34A853;}
+
+    .l {
+      color: #4CAF50; }
+
+    .e {
+      color: #4285F4;}
+
+      body {
+        margin: 0;
+        padding: 0;
+        background:#98FB98;
+      }
+      .main {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%,-100%);
+      }
+      
+      .searchb {
+        top: 190px;
+        width: 450px;
+        height: 45px;
+        position: absolute;
+        transform: translate(-20%,50%);
+      }
+      input[type=""text""] {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        border-radius: 50px;
+        border: 1px solid #d5d4d4;
+        outline: none;
+        padding: 0 40px 0 45px;
+        font-size: 16px;
+        font-family: noto sans hk;
+        box-shadow: 0 2px 10px -7px #000;
+      }
+      .searchicon {
+        top: 13px;
+        left: 18px;
+        color: #777;
+        font-size: 21px;
+        z-index: 1;
+        position: absolute;
+      }
+    </style>
+  </head>
+  <body>
+<br><br>
+    <div class=""main"">
+       <br><br>
+ <div class=""google""><h1>
+    <span class=""g"">G</span>
+    <span class=""o"">o</span>
+    <span class=""o2"">o</span>
+    <span class=""g2"">g</span>
+    <span class=""l"">l</span>
+    <span class=""e"">e</span></h1>
+  </div>
+      <div class=""searchb"">
+        <span class=""material-icons searchicon"">search</span>
+        <input type=""text"" value="""" placeholder=""Search Google or type a URL"" required>
+      </div>
+    </div>
+  </body>
+</html>"
+/pages/searchpage/scyan.jpg,"<!DOCTYPE html>
+<html lang=""en"" dir=""ltr"">
+  <head>
+    <meta charset=""utf-8"">
+    <title></title>
+    <link href='https://fonts.googleapis.com/css?family=Noto Sans HK' rel='stylesheet'>
+    <link href=""https://fonts.googleapis.com/icon?family=Material+Icons"" rel=""stylesheet"">
+    <link rel=""stylesheet"" href=""file:///D:/css/css/all.css"">
+  <style>
+    .google {
+      
+      font-size: 36px; 
+    }
+    
+    .g {
+      color: #4285F4;}
+
+    .o {
+      color: #EA4335; 
+    }
+
+    .o2 {
+      color: #FBBC05;}
+
+    .g2 {
+      color: #34A853;}
+
+    .l {
+      color: #4CAF50; }
+
+    .e {
+      color: #4285F4;}
+
+      body {
+        margin: 0;
+        padding: 0;
+        background:#00FFFF;
+      }
+      .main {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%,-100%);
+      }
+      
+      .searchb {
+        top: 190px;
+        width: 450px;
+        height: 45px;
+        position: absolute;
+        transform: translate(-20%,50%);
+      }
+      input[type=""text""] {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        border-radius: 50px;
+        border: 1px solid #d5d4d4;
+        outline: none;
+        padding: 0 40px 0 45px;
+        font-size: 16px;
+        font-family: noto sans hk;
+        box-shadow: 0 2px 10px -7px #000;
+      }
+      .searchicon {
+        top: 13px;
+        left: 18px;
+        color: #777;
+        font-size: 21px;
+        z-index: 1;
+        position: absolute;
+      }
+    </style>
+  </head>
+  <body>
+<br><br>
+    <div class=""main"">
+       <br><br>
+ <div class=""google""><h1>
+    <span class=""g"">G</span>
+    <span class=""o"">o</span>
+    <span class=""o2"">o</span>
+    <span class=""g2"">g</span>
+    <span class=""l"">l</span>
+    <span class=""e"">e</span></h1>
+  </div>
+      <div class=""searchb"">
+        <span class=""material-icons searchicon"">search</span>
+        <input type=""text"" value="""" placeholder=""Search Google or type a URL"" required>
+      </div>
+    </div>
+  </body>
+</html>"
+/pages/searchpage/spowderblue.jpg,"<!DOCTYPE html>
+<html lang=""en"" dir=""ltr"">
+  <head>
+    <meta charset=""utf-8"">
+    <title></title>
+    <link href='https://fonts.googleapis.com/css?family=Noto Sans HK' rel='stylesheet'>
+    <link href=""https://fonts.googleapis.com/icon?family=Material+Icons"" rel=""stylesheet"">
+    <link rel=""stylesheet"" href=""file:///D:/css/css/all.css"">
+  <style>
+    .google {
+      
+      font-size: 36px; 
+    }
+    
+    .g {
+      color: #4285F4;}
+
+    .o {
+      color: #EA4335; 
+    }
+
+    .o2 {
+      color: #FBBC05;}
+
+    .g2 {
+      color: #34A853;}
+
+    .l {
+      color: #4CAF50; }
+
+    .e {
+      color: #4285F4;}
+
+      body {
+        margin: 0;
+        padding: 0;
+        background:#B0E0E6;
+      }
+      .main {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%,-100%);
+      }
+      
+      .searchb {
+        top: 190px;
+        width: 450px;
+        height: 45px;
+        position: absolute;
+        transform: translate(-20%,50%);
+      }
+      input[type=""text""] {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        border-radius: 50px;
+        border: 1px solid #d5d4d4;
+        outline: none;
+        padding: 0 40px 0 45px;
+        font-size: 16px;
+        font-family: noto sans hk;
+        box-shadow: 0 2px 10px -7px #000;
+      }
+      .searchicon {
+        top: 13px;
+        left: 18px;
+        color: #777;
+        font-size: 21px;
+        z-index: 1;
+        position: absolute;
+      }
+    </style>
+  </head>
+  <body>
+<br><br>
+    <div class=""main"">
+       <br><br>
+ <div class=""google""><h1>
+    <span class=""g"">G</span>
+    <span class=""o"">o</span>
+    <span class=""o2"">o</span>
+    <span class=""g2"">g</span>
+    <span class=""l"">l</span>
+    <span class=""e"">e</span></h1>
+  </div>
+      <div class=""searchb"">
+        <span class=""material-icons searchicon"">search</span>
+        <input type=""text"" value="""" placeholder=""Search Google or type a URL"" required>
+      </div>
+    </div>
+  </body>
+</html>"
+/pages/searchpage/slightskyblue.jpg,"<!DOCTYPE html>
+<html lang=""en"" dir=""ltr"">
+  <head>
+    <meta charset=""utf-8"">
+    <title></title>
+    <link href='https://fonts.googleapis.com/css?family=Noto Sans HK' rel='stylesheet'>
+    <link href=""https://fonts.googleapis.com/icon?family=Material+Icons"" rel=""stylesheet"">
+    <link rel=""stylesheet"" href=""file:///D:/css/css/all.css"">
+  <style>
+    .google {
+      
+      font-size: 36px; 
+    }
+    
+    .g {
+      color: #4285F4;}
+
+    .o {
+      color: #EA4335; 
+    }
+
+    .o2 {
+      color: #FBBC05;}
+
+    .g2 {
+      color: #34A853;}
+
+    .l {
+      color: #4CAF50; }
+
+    .e {
+      color: #4285F4;}
+
+      body {
+        margin: 0;
+        padding: 0;
+        background:#87CEFA;
+      }
+      .main {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%,-100%);
+      }
+      
+      .searchb {
+        top: 190px;
+        width: 450px;
+        height: 45px;
+        position: absolute;
+        transform: translate(-20%,50%);
+      }
+      input[type=""text""] {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        border-radius: 50px;
+        border: 1px solid #d5d4d4;
+        outline: none;
+        padding: 0 40px 0 45px;
+        font-size: 16px;
+        font-family: noto sans hk;
+        box-shadow: 0 2px 10px -7px #000;
+      }
+      .searchicon {
+        top: 13px;
+        left: 18px;
+        color: #777;
+        font-size: 21px;
+        z-index: 1;
+        position: absolute;
+      }
+    </style>
+  </head>
+  <body>
+<br><br>
+    <div class=""main"">
+       <br><br>
+ <div class=""google""><h1>
+    <span class=""g"">G</span>
+    <span class=""o"">o</span>
+    <span class=""o2"">o</span>
+    <span class=""g2"">g</span>
+    <span class=""l"">l</span>
+    <span class=""e"">e</span></h1>
+  </div>
+      <div class=""searchb"">
+        <span class=""material-icons searchicon"">search</span>
+        <input type=""text"" value="""" placeholder=""Search Google or type a URL"" required>
+      </div>
+    </div>
+  </body>
+</html>"
+/pages/searchpage/swheat.jpg,"<!DOCTYPE html>
+<html lang=""en"" dir=""ltr"">
+  <head>
+    <meta charset=""utf-8"">
+    <title></title>
+    <link href='https://fonts.googleapis.com/css?family=Noto Sans HK' rel='stylesheet'>
+    <link href=""https://fonts.googleapis.com/icon?family=Material+Icons"" rel=""stylesheet"">
+    <link rel=""stylesheet"" href=""file:///D:/css/css/all.css"">
+  <style>
+    .google {
+      
+      font-size: 36px; 
+    }
+    
+    .g {
+      color: #4285F4;}
+
+    .o {
+      color: #EA4335; 
+    }
+
+    .o2 {
+      color: #FBBC05;}
+
+    .g2 {
+      color: #34A853;}
+
+    .l {
+      color: #4CAF50; }
+
+    .e {
+      color: #4285F4;}
+
+      body {
+        margin: 0;
+        padding: 0;
+        background:#F5DEB3;
+      }
+      .main {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%,-100%);
+      }
+      
+      .searchb {
+        top: 190px;
+        width: 450px;
+        height: 45px;
+        position: absolute;
+        transform: translate(-20%,50%);
+      }
+      input[type=""text""] {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        border-radius: 50px;
+        border: 1px solid #d5d4d4;
+        outline: none;
+        padding: 0 40px 0 45px;
+        font-size: 16px;
+        font-family: noto sans hk;
+        box-shadow: 0 2px 10px -7px #000;
+      }
+      .searchicon {
+        top: 13px;
+        left: 18px;
+        color: #777;
+        font-size: 21px;
+        z-index: 1;
+        position: absolute;
+      }
+    </style>
+  </head>
+  <body>
+<br><br>
+    <div class=""main"">
+       <br><br>
+ <div class=""google""><h1>
+    <span class=""g"">G</span>
+    <span class=""o"">o</span>
+    <span class=""o2"">o</span>
+    <span class=""g2"">g</span>
+    <span class=""l"">l</span>
+    <span class=""e"">e</span></h1>
+  </div>
+      <div class=""searchb"">
+        <span class=""material-icons searchicon"">search</span>
+        <input type=""text"" value="""" placeholder=""Search Google or type a URL"" required>
+      </div>
+    </div>
+  </body>
+</html>"
+/pages/searchpage/srosy.jpg,"<!DOCTYPE html>
+<html lang=""en"" dir=""ltr"">
+  <head>
+    <meta charset=""utf-8"">
+    <title></title>
+    <link href='https://fonts.googleapis.com/css?family=Noto Sans HK' rel='stylesheet'>
+    <link href=""https://fonts.googleapis.com/icon?family=Material+Icons"" rel=""stylesheet"">
+    <link rel=""stylesheet"" href=""file:///D:/css/css/all.css"">
+  <style>
+    .google {
+      
+      font-size: 36px; 
+    }
+    
+    .g {
+      color: #4285F4;}
+
+    .o {
+      color: #EA4335; 
+    }
+
+    .o2 {
+      color: #FBBC05;}
+
+    .g2 {
+      color: #34A853;}
+
+    .l {
+      color: #4CAF50; }
+
+    .e {
+      color: #4285F4;}
+
+      body {
+        margin: 0;
+        padding: 0;
+        background:#BC8F8F;
+      }
+      .main {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%,-100%);
+      }
+      
+      .searchb {
+        top: 190px;
+        width: 450px;
+        height: 45px;
+        position: absolute;
+        transform: translate(-20%,50%);
+      }
+      input[type=""text""] {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        border-radius: 50px;
+        border: 1px solid #d5d4d4;
+        outline: none;
+        padding: 0 40px 0 45px;
+        font-size: 16px;
+        font-family: noto sans hk;
+        box-shadow: 0 2px 10px -7px #000;
+      }
+      .searchicon {
+        top: 13px;
+        left: 18px;
+        color: #777;
+        font-size: 21px;
+        z-index: 1;
+        position: absolute;
+      }
+    </style>
+  </head>
+  <body>
+<br><br>
+    <div class=""main"">
+       <br><br>
+ <div class=""google""><h1>
+    <span class=""g"">G</span>
+    <span class=""o"">o</span>
+    <span class=""o2"">o</span>
+    <span class=""g2"">g</span>
+    <span class=""l"">l</span>
+    <span class=""e"">e</span></h1>
+  </div>
+      <div class=""searchb"">
+        <span class=""material-icons searchicon"">search</span>
+        <input type=""text"" value="""" placeholder=""Search Google or type a URL"" required>
+      </div>
+    </div>
+  </body>
+</html>"
+/pages/searchpage/sazure.jpg,"<!DOCTYPE html>
+<html lang=""en"" dir=""ltr"">
+  <head>
+    <meta charset=""utf-8"">
+    <title></title>
+    <link href='https://fonts.googleapis.com/css?family=Noto Sans HK' rel='stylesheet'>
+    <link href=""https://fonts.googleapis.com/icon?family=Material+Icons"" rel=""stylesheet"">
+    <link rel=""stylesheet"" href=""file:///D:/css/css/all.css"">
+  <style>
+    .google {
+      
+      font-size: 36px; 
+    }
+    
+    .g {
+      color: #4285F4;}
+
+    .o {
+      color: #EA4335; 
+    }
+
+    .o2 {
+      color: #FBBC05;}
+
+    .g2 {
+      color: #34A853;}
+
+    .l {
+      color: #4CAF50; }
+
+    .e {
+      color: #4285F4;}
+
+      body {
+        margin: 0;
+        padding: 0;
+        background:#F0FFFF;
+      }
+      .main {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%,-100%);
+      }
+      
+      .searchb {
+        top: 190px;
+        width: 450px;
+        height: 45px;
+        position: absolute;
+        transform: translate(-20%,50%);
+      }
+      input[type=""text""] {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        border-radius: 50px;
+        border: 1px solid #d5d4d4;
+        outline: none;
+        padding: 0 40px 0 45px;
+        font-size: 16px;
+        font-family: noto sans hk;
+        box-shadow: 0 2px 10px -7px #000;
+      }
+      .searchicon {
+        top: 13px;
+        left: 18px;
+        color: #777;
+        font-size: 21px;
+        z-index: 1;
+        position: absolute;
+      }
+    </style>
+  </head>
+  <body>
+<br><br>
+    <div class=""main"">
+       <br><br>
+ <div class=""google""><h1>
+    <span class=""g"">G</span>
+    <span class=""o"">o</span>
+    <span class=""o2"">o</span>
+    <span class=""g2"">g</span>
+    <span class=""l"">l</span>
+    <span class=""e"">e</span></h1>
+  </div>
+      <div class=""searchb"">
+        <span class=""material-icons searchicon"">search</span>
+        <input type=""text"" value="""" placeholder=""Search Google or type a URL"" required>
+      </div>
+    </div>
+  </body>
+</html>"
+/pages/searchpage/ssilver.jpg,"<!DOCTYPE html>
+<html lang=""en"" dir=""ltr"">
+  <head>
+    <meta charset=""utf-8"">
+    <title></title>
+    <link href='https://fonts.googleapis.com/css?family=Noto Sans HK' rel='stylesheet'>
+    <link href=""https://fonts.googleapis.com/icon?family=Material+Icons"" rel=""stylesheet"">
+    <link rel=""stylesheet"" href=""file:///D:/css/css/all.css"">
+  <style>
+    .google {
+      
+      font-size: 36px; 
+    }
+    
+    .g {
+      color: #4285F4;}
+
+    .o {
+      color: #EA4335; 
+    }
+
+    .o2 {
+      color: #FBBC05;}
+
+    .g2 {
+      color: #34A853;}
+
+    .l {
+      color: #4CAF50; }
+
+    .e {
+      color: #4285F4;}
+
+      body {
+        margin: 0;
+        padding: 0;
+        background:#C0C0C0;
+      }
+      .main {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%,-100%);
+      }
+      
+      .searchb {
+        top: 190px;
+        width: 450px;
+        height: 45px;
+        position: absolute;
+        transform: translate(-20%,50%);
+      }
+      input[type=""text""] {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        border-radius: 50px;
+        border: 1px solid #d5d4d4;
+        outline: none;
+        padding: 0 40px 0 45px;
+        font-size: 16px;
+        font-family: noto sans hk;
+        box-shadow: 0 2px 10px -7px #000;
+      }
+      .searchicon {
+        top: 13px;
+        left: 18px;
+        color: #777;
+        font-size: 21px;
+        z-index: 1;
+        position: absolute;
+      }
+    </style>
+  </head>
+  <body>
+<br><br>
+    <div class=""main"">
+       <br><br>
+ <div class=""google""><h1>
+    <span class=""g"">G</span>
+    <span class=""o"">o</span>
+    <span class=""o2"">o</span>
+    <span class=""g2"">g</span>
+    <span class=""l"">l</span>
+    <span class=""e"">e</span></h1>
+  </div>
+      <div class=""searchb"">
+        <span class=""material-icons searchicon"">search</span>
+        <input type=""text"" value="""" placeholder=""Search Google or type a URL"" required>
+      </div>
+    </div>
+  </body>
+</html>"
+/pages/searchpage/sesienna.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Search Page</title>
+    <style>
+        body {
+            background-color: #A0522D;
+            background-size: cover; 
+            background-repeat: no-repeat;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            text-align: center;
+        }
+                input[type=""text""] {
+            width: 50%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        input[type=""submit""] {
+            width: 10%;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: #fff;
+            cursor: pointer;
+        }
+        input[type=""submit""]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<center>
+    <div class=""container"">
+        <h1>Yahoo!!</h1>
+        <form action=""search_results.php"" method=""get"">
+            <input type=""text"" name=""query"" placeholder=""Search Google or type a URL"" required><br>
+            <input type=""submit"" value=""Go"">
+        </form>
+    </div>
+</center>
+</body>
+</html>"
+/pages/searchpage/selightcoral.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Search Page</title>
+    <style>
+        body {
+            background-color:#F08080;
+            background-size: cover; 
+            background-repeat: no-repeat;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            text-align: center;
+        }
+                input[type=""text""] {
+            width: 50%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        input[type=""submit""] {
+            width: 10%;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: #fff;
+            cursor: pointer;
+        }
+        input[type=""submit""]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<center>
+    <div class=""container"">
+        <h1>Yahoo!!</h1>
+        <form action=""search_results.php"" method=""get"">
+            <input type=""text"" name=""query"" placeholder=""Search Google or type a URL"" required><br>
+            <input type=""submit"" value=""Go"">
+        </form>
+    </div>
+</center>
+</body>
+</html>"
+/pages/searchpage/sedarksalmon.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Search Page</title>
+    <style>
+        body {
+            background-color:#E9967A;
+            background-size: cover; 
+            background-repeat: no-repeat;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            text-align: center;
+        }
+                input[type=""text""] {
+            width: 50%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        input[type=""submit""] {
+            width: 10%;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: #fff;
+            cursor: pointer;
+        }
+        input[type=""submit""]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<center>
+    <div class=""container"">
+        <h1>Yahoo!!</h1>
+        <form action=""search_results.php"" method=""get"">
+            <input type=""text"" name=""query"" placeholder=""Search Google or type a URL"" required><br>
+            <input type=""submit"" value=""Go"">
+        </form>
+    </div>
+</center>
+</body>
+</html>"
+/pages/searchpage/sefirebrick.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Search Page</title>
+    <style>
+        body {
+            background-color:#B22222;
+            background-size: cover; 
+            background-repeat: no-repeat;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            text-align: center;
+        }
+                input[type=""text""] {
+            width: 50%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        input[type=""submit""] {
+            width: 10%;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: #fff;
+            cursor: pointer;
+        }
+        input[type=""submit""]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<center>
+    <div class=""container"">
+        <h1>Yahoo!!</h1>
+        <form action=""search_results.php"" method=""get"">
+            <input type=""text"" name=""query"" placeholder=""Search Google or type a URL"" required><br>
+            <input type=""submit"" value=""Go"">
+        </form>
+    </div>
+</center>
+</body>
+</html>"
+/pages/searchpage/selightpink.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Search Page</title>
+    <style>
+        body {
+            background-color:#FFB6C1;
+            background-size: cover; 
+            background-repeat: no-repeat;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            text-align: center;
+        }
+                input[type=""text""] {
+            width: 50%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        input[type=""submit""] {
+            width: 10%;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: #fff;
+            cursor: pointer;
+        }
+        input[type=""submit""]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<center>
+    <div class=""container"">
+        <h1>Yahoo!!</h1>
+        <form action=""search_results.php"" method=""get"">
+            <input type=""text"" name=""query"" placeholder=""Search Google or type a URL"" required><br>
+            <input type=""submit"" value=""Go"">
+        </form>
+    </div>
+</center>
+</body>
+</html>"
+/pages/searchpage/sehotpink.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Search Page</title>
+    <style>
+        body {
+            background-color:#FF1493;
+            background-size: cover; 
+            background-repeat: no-repeat;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            text-align: center;
+        }
+                input[type=""text""] {
+            width: 50%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        input[type=""submit""] {
+            width: 10%;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: #fff;
+            cursor: pointer;
+        }
+        input[type=""submit""]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<center>
+    <div class=""container"">
+        <h1>Yahoo!!</h1>
+        <form action=""search_results.php"" method=""get"">
+            <input type=""text"" name=""query"" placeholder=""Search Google or type a URL"" required><br>
+            <input type=""submit"" value=""Go"">
+        </form>
+    </div>
+</center>
+</body>
+</html>"
+/pages/searchpage/sepalevioletred.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Search Page</title>
+    <style>
+        body {
+            background-color:#DB7093;
+            background-size: cover; 
+            background-repeat: no-repeat;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            text-align: center;
+        }
+                input[type=""text""] {
+            width: 50%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        input[type=""submit""] {
+            width: 10%;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: #fff;
+            cursor: pointer;
+        }
+        input[type=""submit""]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<center>
+    <div class=""container"">
+        <h1>Yahoo!!</h1>
+        <form action=""search_results.php"" method=""get"">
+            <input type=""text"" name=""query"" placeholder=""Search Google or type a URL"" required><br>
+            <input type=""submit"" value=""Go"">
+        </form>
+    </div>
+</center>
+</body>
+</html>"
+/pages/searchpage/selightsalmon.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Search Page</title>
+    <style>
+        body {
+            background-color:#FFA07A;
+            background-size: cover; 
+            background-repeat: no-repeat;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            text-align: center;
+        }
+                input[type=""text""] {
+            width: 50%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        input[type=""submit""] {
+            width: 10%;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: #fff;
+            cursor: pointer;
+        }
+        input[type=""submit""]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<center>
+    <div class=""container"">
+        <h1>Yahoo!!</h1>
+        <form action=""search_results.php"" method=""get"">
+            <input type=""text"" name=""query"" placeholder=""Search Google or type a URL"" required><br>
+            <input type=""submit"" value=""Go"">
+        </form>
+    </div>
+</center>
+</body>
+</html>"
+/pages/searchpage/seorangered.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Search Page</title>
+    <style>
+        body {
+            background-color:#FF4500;
+            background-size: cover; 
+            background-repeat: no-repeat;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            text-align: center;
+        }
+                input[type=""text""] {
+            width: 50%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        input[type=""submit""] {
+            width: 10%;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: #fff;
+            cursor: pointer;
+        }
+        input[type=""submit""]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<center>
+    <div class=""container"">
+        <h1>Yahoo!!</h1>
+        <form action=""search_results.php"" method=""get"">
+            <input type=""text"" name=""query"" placeholder=""Search Google or type a URL"" required><br>
+            <input type=""submit"" value=""Go"">
+        </form>
+    </div>
+</center>
+</body>
+</html>"
+/pages/searchpage/sedarkorange.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Search Page</title>
+    <style>
+        body {
+            background-color:#FF8C00;
+            background-size: cover; 
+            background-repeat: no-repeat;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            text-align: center;
+        }
+                input[type=""text""] {
+            width: 50%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        input[type=""submit""] {
+            width: 10%;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: #fff;
+            cursor: pointer;
+        }
+        input[type=""submit""]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<center>
+    <div class=""container"">
+        <h1>Yahoo!!</h1>
+        <form action=""search_results.php"" method=""get"">
+            <input type=""text"" name=""query"" placeholder=""Search Google or type a URL"" required><br>
+            <input type=""submit"" value=""Go"">
+        </form>
+    </div>
+</center>
+</body>
+</html>"
+/pages/searchpage/seyellow.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Search Page</title>
+    <style>
+        body {
+            background-color:#FFFF00;
+            background-size: cover; 
+            background-repeat: no-repeat;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            text-align: center;
+        }
+                input[type=""text""] {
+            width: 50%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        input[type=""submit""] {
+            width: 10%;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: #fff;
+            cursor: pointer;
+        }
+        input[type=""submit""]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<center>
+    <div class=""container"">
+        <h1>Yahoo!!</h1>
+        <form action=""search_results.php"" method=""get"">
+            <input type=""text"" name=""query"" placeholder=""Search Google or type a URL"" required><br>
+            <input type=""submit"" value=""Go"">
+        </form>
+    </div>
+</center>
+</body>
+</html>"
+/pages/searchpage/sekhaki.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Search Page</title>
+    <style>
+        body {
+            background-color:#F0E68C;
+            background-size: cover; 
+            background-repeat: no-repeat;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            text-align: center;
+        }
+                input[type=""text""] {
+            width: 50%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        input[type=""submit""] {
+            width: 10%;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: #fff;
+            cursor: pointer;
+        }
+        input[type=""submit""]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<center>
+    <div class=""container"">
+        <h1>Yahoo!!</h1>
+        <form action=""search_results.php"" method=""get"">
+            <input type=""text"" name=""query"" placeholder=""Search Google or type a URL"" required><br>
+            <input type=""submit"" value=""Go"">
+        </form>
+    </div>
+</center>
+</body>
+</html>"
+/pages/searchpage/selavendar.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Search Page</title>
+    <style>
+        body {
+            background-color:#E6E6FA;
+            background-size: cover; 
+            background-repeat: no-repeat;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            text-align: center;
+        }
+                input[type=""text""] {
+            width: 50%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        input[type=""submit""] {
+            width: 10%;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: #fff;
+            cursor: pointer;
+        }
+        input[type=""submit""]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<center>
+    <div class=""container"">
+        <h1>Yahoo!!</h1>
+        <form action=""search_results.php"" method=""get"">
+            <input type=""text"" name=""query"" placeholder=""Search Google or type a URL"" required><br>
+            <input type=""submit"" value=""Go"">
+        </form>
+    </div>
+</center>
+</body>
+</html>"
+/pages/searchpage/seviolet.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Search Page</title>
+    <style>
+        body {
+            background-color:#EE82EE;
+            background-size: cover; 
+            background-repeat: no-repeat;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            text-align: center;
+        }
+                input[type=""text""] {
+            width: 50%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        input[type=""submit""] {
+            width: 10%;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: #fff;
+            cursor: pointer;
+        }
+        input[type=""submit""]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<center>
+    <div class=""container"">
+        <h1>Yahoo!!</h1>
+        <form action=""search_results.php"" method=""get"">
+            <input type=""text"" name=""query"" placeholder=""Search Google or type a URL"" required><br>
+            <input type=""submit"" value=""Go"">
+        </form>
+    </div>
+</center>
+</body>
+</html>"
+/pages/searchpage/seorchid.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Search Page</title>
+    <style>
+        body {
+            background-color:#DA70D6;
+            background-size: cover; 
+            background-repeat: no-repeat;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            text-align: center;
+        }
+                input[type=""text""] {
+            width: 50%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        input[type=""submit""] {
+            width: 10%;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: #fff;
+            cursor: pointer;
+        }
+        input[type=""submit""]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<center>
+    <div class=""container"">
+        <h1>Yahoo!!</h1>
+        <form action=""search_results.php"" method=""get"">
+            <input type=""text"" name=""query"" placeholder=""Search Google or type a URL"" required><br>
+            <input type=""submit"" value=""Go"">
+        </form>
+    </div>
+</center>
+</body>
+</html>"
+/pages/searchpage/semagenta.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Search Page</title>
+    <style>
+        body {
+            background-color:#FF00FF;
+            background-size: cover; 
+            background-repeat: no-repeat;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            text-align: center;
+        }
+                input[type=""text""] {
+            width: 50%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        input[type=""submit""] {
+            width: 10%;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: #fff;
+            cursor: pointer;
+        }
+        input[type=""submit""]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<center>
+    <div class=""container"">
+        <h1>Yahoo!!</h1>
+        <form action=""search_results.php"" method=""get"">
+            <input type=""text"" name=""query"" placeholder=""Search Google or type a URL"" required><br>
+            <input type=""submit"" value=""Go"">
+        </form>
+    </div>
+</center>
+</body>
+</html>"
+/pages/searchpage/seblueviolet.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Search Page</title>
+    <style>
+        body {
+            background-color:#8A2BE2;
+            background-size: cover; 
+            background-repeat: no-repeat;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            text-align: center;
+        }
+                input[type=""text""] {
+            width: 50%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        input[type=""submit""] {
+            width: 10%;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: #fff;
+            cursor: pointer;
+        }
+        input[type=""submit""]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<center>
+    <div class=""container"">
+        <h1>Yahoo!!</h1>
+        <form action=""search_results.php"" method=""get"">
+            <input type=""text"" name=""query"" placeholder=""Search Google or type a URL"" required><br>
+            <input type=""submit"" value=""Go"">
+        </form>
+    </div>
+</center>
+</body>
+</html>"
+/pages/searchpage/seindigo.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Search Page</title>
+    <style>
+        body {
+            background-color:#483D8B;
+            background-size: cover; 
+            background-repeat: no-repeat;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            text-align: center;
+        }
+                input[type=""text""] {
+            width: 50%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        input[type=""submit""] {
+            width: 10%;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: #fff;
+            cursor: pointer;
+        }
+        input[type=""submit""]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<center>
+    <div class=""container"">
+        <h1>Yahoo!!</h1>
+        <form action=""search_results.php"" method=""get"">
+            <input type=""text"" name=""query"" placeholder=""Search Google or type a URL"" required><br>
+            <input type=""submit"" value=""Go"">
+        </form>
+    </div>
+</center>
+</body>
+</html>"
+/pages/searchpage/seslateblue.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Search Page</title>
+    <style>
+        body {
+            background-color:#6A5ACD;
+            background-size: cover; 
+            background-repeat: no-repeat;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            text-align: center;
+        }
+                input[type=""text""] {
+            width: 50%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        input[type=""submit""] {
+            width: 10%;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: #fff;
+            cursor: pointer;
+        }
+        input[type=""submit""]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<center>
+    <div class=""container"">
+        <h1>Yahoo!!</h1>
+        <form action=""search_results.php"" method=""get"">
+            <input type=""text"" name=""query"" placeholder=""Search Google or type a URL"" required><br>
+            <input type=""submit"" value=""Go"">
+        </form>
+    </div>
+</center>
+</body>
+</html>"
+/pages/searchpage/segreenyellow.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Search Page</title>
+    <style>
+        body {
+            background-color:#ADFF2F;
+            background-size: cover; 
+            background-repeat: no-repeat;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            text-align: center;
+        }
+                input[type=""text""] {
+            width: 50%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        input[type=""submit""] {
+            width: 10%;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: #fff;
+            cursor: pointer;
+        }
+        input[type=""submit""]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<center>
+    <div class=""container"">
+        <h1>Yahoo!!</h1>
+        <form action=""search_results.php"" method=""get"">
+            <input type=""text"" name=""query"" placeholder=""Search Google or type a URL"" required><br>
+            <input type=""submit"" value=""Go"">
+        </form>
+    </div>
+</center>
+</body>
+</html>"
+/pages/searchpage/selime.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Search Page</title>
+    <style>
+        body {
+            background-color:#00FF00;
+            background-size: cover; 
+            background-repeat: no-repeat;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            text-align: center;
+        }
+                input[type=""text""] {
+            width: 50%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        input[type=""submit""] {
+            width: 10%;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: #fff;
+            cursor: pointer;
+        }
+        input[type=""submit""]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<center>
+    <div class=""container"">
+        <h1>Yahoo!!</h1>
+        <form action=""search_results.php"" method=""get"">
+            <input type=""text"" name=""query"" placeholder=""Search Google or type a URL"" required><br>
+            <input type=""submit"" value=""Go"">
+        </form>
+    </div>
+</center>
+</body>
+</html>"
+/pages/searchpage/selimegreen.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Search Page</title>
+    <style>
+        body {
+            background-color:#32CD32;
+            background-size: cover; 
+            background-repeat: no-repeat;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            text-align: center;
+        }
+                input[type=""text""] {
+            width: 50%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        input[type=""submit""] {
+            width: 10%;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: #fff;
+            cursor: pointer;
+        }
+        input[type=""submit""]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<center>
+    <div class=""container"">
+        <h1>Yahoo!!</h1>
+        <form action=""search_results.php"" method=""get"">
+            <input type=""text"" name=""query"" placeholder=""Search Google or type a URL"" required><br>
+            <input type=""submit"" value=""Go"">
+        </form>
+    </div>
+</center>
+</body>
+</html>"
+/pages/searchpage/selightgreen.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Search Page</title>
+    <style>
+        body {
+            background-color:#90EE90;
+            background-size: cover; 
+            background-repeat: no-repeat;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            text-align: center;
+        }
+                input[type=""text""] {
+            width: 50%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        input[type=""submit""] {
+            width: 10%;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: #fff;
+            cursor: pointer;
+        }
+        input[type=""submit""]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<center>
+    <div class=""container"">
+        <h1>Yahoo!!</h1>
+        <form action=""search_results.php"" method=""get"">
+            <input type=""text"" name=""query"" placeholder=""Search Google or type a URL"" required><br>
+            <input type=""submit"" value=""Go"">
+        </form>
+    </div>
+</center>
+</body>
+</html>"
+/pages/searchpage/sespringgreen.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Search Page</title>
+    <style>
+        body {
+            background-color: #00FF7F;
+            background-size: cover; 
+            background-repeat: no-repeat;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            text-align: center;
+        }
+                input[type=""text""] {
+            width: 50%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        input[type=""submit""] {
+            width: 10%;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: #fff;
+            cursor: pointer;
+        }
+        input[type=""submit""]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<center>
+    <div class=""container"">
+        <h1>Yahoo!!</h1>
+        <form action=""search_results.php"" method=""get"">
+            <input type=""text"" name=""query"" placeholder=""Search Google or type a URL"" required><br>
+            <input type=""submit"" value=""Go"">
+        </form>
+    </div>
+</center>
+</body>
+</html>"
+/pages/searchpage/seseagreen.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Search Page</title>
+    <style>
+        body {
+            background-color:#2E8B57;
+            background-size: cover; 
+            background-repeat: no-repeat;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            text-align: center;
+        }
+                input[type=""text""] {
+            width: 50%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        input[type=""submit""] {
+            width: 10%;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: #fff;
+            cursor: pointer;
+        }
+        input[type=""submit""]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<center>
+    <div class=""container"">
+        <h1>Yahoo!!</h1>
+        <form action=""search_results.php"" method=""get"">
+            <input type=""text"" name=""query"" placeholder=""Search Google or type a URL"" required><br>
+            <input type=""submit"" value=""Go"">
+        </form>
+    </div>
+</center>
+</body>
+</html>"
+/pages/searchpage/segreen.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Search Page</title>
+    <style>
+        body {
+            background-color:#008000;
+            background-size: cover; 
+            background-repeat: no-repeat;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            text-align: center;
+        }
+                input[type=""text""] {
+            width: 50%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        input[type=""submit""] {
+            width: 10%;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: #fff;
+            cursor: pointer;
+        }
+        input[type=""submit""]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<center>
+    <div class=""container"">
+        <h1>Yahoo!!</h1>
+        <form action=""search_results.php"" method=""get"">
+            <input type=""text"" name=""query"" placeholder=""Search Google or type a URL"" required><br>
+            <input type=""submit"" value=""Go"">
+        </form>
+    </div>
+</center>
+</body>
+</html>"
+/pages/searchpage/seolive.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Search Page</title>
+    <style>
+        body {
+            background-color:#808000;
+            background-size: cover; 
+            background-repeat: no-repeat;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            text-align: center;
+        }
+                input[type=""text""] {
+            width: 50%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        input[type=""submit""] {
+            width: 10%;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: #fff;
+            cursor: pointer;
+        }
+        input[type=""submit""]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<center>
+    <div class=""container"">
+        <h1>Yahoo!!</h1>
+        <form action=""search_results.php"" method=""get"">
+            <input type=""text"" name=""query"" placeholder=""Search Google or type a URL"" required><br>
+            <input type=""submit"" value=""Go"">
+        </form>
+    </div>
+</center>
+</body>
+</html>"
+/pages/searchpage/semediumaqua.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Search Page</title>
+    <style>
+        body {
+            background-color:#66CDAA;
+            background-size: cover; 
+            background-repeat: no-repeat;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            text-align: center;
+        }
+                input[type=""text""] {
+            width: 50%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        input[type=""submit""] {
+            width: 10%;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: #fff;
+            cursor: pointer;
+        }
+        input[type=""submit""]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<center>
+    <div class=""container"">
+        <h1>Yahoo!!</h1>
+        <form action=""search_results.php"" method=""get"">
+            <input type=""text"" name=""query"" placeholder=""Search Google or type a URL"" required><br>
+            <input type=""submit"" value=""Go"">
+        </form>
+    </div>
+</center>
+</body>
+</html>"
+/pages/searchpage/selightsea.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Search Page</title>
+    <style>
+        body {
+            background-color:#20B2AA;
+            background-size: cover; 
+            background-repeat: no-repeat;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            text-align: center;
+        }
+                input[type=""text""] {
+            width: 50%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        input[type=""submit""] {
+            width: 10%;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: #fff;
+            cursor: pointer;
+        }
+        input[type=""submit""]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<center>
+    <div class=""container"">
+        <h1>Yahoo!!</h1>
+        <form action=""search_results.php"" method=""get"">
+            <input type=""text"" name=""query"" placeholder=""Search Google or type a URL"" required><br>
+            <input type=""submit"" value=""Go"">
+        </form>
+    </div>
+</center>
+</body>
+</html>"
+/pages/searchpage/seaqua.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Search Page</title>
+    <style>
+        body {
+            background-color:#00FFFF;
+            background-size: cover; 
+            background-repeat: no-repeat;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            text-align: center;
+        }
+                input[type=""text""] {
+            width: 50%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        input[type=""submit""] {
+            width: 10%;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: #fff;
+            cursor: pointer;
+        }
+        input[type=""submit""]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<center>
+    <div class=""container"">
+        <h1>Yahoo!!</h1>
+        <form action=""search_results.php"" method=""get"">
+            <input type=""text"" name=""query"" placeholder=""Search Google or type a URL"" required><br>
+            <input type=""submit"" value=""Go"">
+        </form>
+    </div>
+</center>
+</body>
+</html>"
+/pages/searchpage/selightblue.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Search Page</title>
+    <style>
+        body {
+            background-color:#ADD8E6;
+            background-size: cover; 
+            background-repeat: no-repeat;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            text-align: center;
+        }
+                input[type=""text""] {
+            width: 50%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        input[type=""submit""] {
+            width: 10%;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: #fff;
+            cursor: pointer;
+        }
+        input[type=""submit""]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<center>
+    <div class=""container"">
+        <h1>Yahoo!!</h1>
+        <form action=""search_results.php"" method=""get"">
+            <input type=""text"" name=""query"" placeholder=""Search Google or type a URL"" required><br>
+            <input type=""submit"" value=""Go"">
+        </form>
+    </div>
+</center>
+</body>
+</html>"
+/pages/searchpage/semediumslate.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Search Page</title>
+    <style>
+        body {
+            background-color:#7B68EE;
+            background-size: cover; 
+            background-repeat: no-repeat;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            text-align: center;
+        }
+                input[type=""text""] {
+            width: 50%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        input[type=""submit""] {
+            width: 10%;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: #fff;
+            cursor: pointer;
+        }
+        input[type=""submit""]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<center>
+    <div class=""container"">
+        <h1>Yahoo!!</h1>
+        <form action=""search_results.php"" method=""get"">
+            <input type=""text"" name=""query"" placeholder=""Search Google or type a URL"" required><br>
+            <input type=""submit"" value=""Go"">
+        </form>
+    </div>
+</center>
+</body>
+</html>"
+/pages/searchpage/seburlywood.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Search Page</title>
+    <style>
+        body {
+            background-color:#DEB887;
+            background-size: cover; 
+            background-repeat: no-repeat;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            text-align: center;
+        }
+                input[type=""text""] {
+            width: 50%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        input[type=""submit""] {
+            width: 10%;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: #fff;
+            cursor: pointer;
+        }
+        input[type=""submit""]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<center>
+    <div class=""container"">
+        <h1>Yahoo!!</h1>
+        <form action=""search_results.php"" method=""get"">
+            <input type=""text"" name=""query"" placeholder=""Search Google or type a URL"" required><br>
+            <input type=""submit"" value=""Go"">
+        </form>
+    </div>
+</center>
+</body>
+</html>"
+/pages/searchpage/segray.jpg,"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Search Page</title>
+    <style>
+        body {
+            background-color:#808080;
+            background-size: cover; 
+            background-repeat: no-repeat;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            text-align: center;
+        }
+                input[type=""text""] {
+            width: 50%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        input[type=""submit""] {
+            width: 10%;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: #fff;
+            cursor: pointer;
+        }
+        input[type=""submit""]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<center>
+    <div class=""container"">
+        <h1>Yahoo!!</h1>
+        <form action=""search_results.php"" method=""get"">
+            <input type=""text"" name=""query"" placeholder=""Search Google or type a URL"" required><br>
+            <input type=""submit"" value=""Go"">
+        </form>
+    </div>
+</center>
+</body>
+</html>"
+/pages/searchpage/samplegold.jpg,"<!DOCTYPE html>
+<html lang=""en"" dir=""ltr"">
+  <head>
+    <meta charset=""utf-8"">
+    <title></title>
+    <link href='https://fonts.googleapis.com/css?family=Noto Sans HK' rel='stylesheet'>
+    <link href=""https://fonts.googleapis.com/icon?family=Material+Icons"" rel=""stylesheet"">
+    <link rel=""stylesheet"" href=""file:///D:/css/css/all.css"">
+  <style>
+    .google {
+      
+      font-size: 36px; 
+    }
+    
+    .g {
+      color: #4285F4;}
+
+    .o {
+      color: #EA4335; 
+    }
+
+    .o2 {
+      color: #FBBC05;}
+
+    .g2 {
+      color: #34A853;}
+
+    .l {
+      color: #4CAF50; }
+
+    .e {
+      color: #4285F4;}
+
+      body {
+        margin: 0;
+        padding: 0;
+        background:gold;
+      }
+      .main {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%,-100%);
+      }
+      
+      .searchb {
+        top: 190px;
+        width: 450px;
+        height: 45px;
+        position: absolute;
+        transform: translate(-20%,50%);
+      }
+      input[type=""text""] {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        border-radius: 50px;
+        border: 1px solid #d5d4d4;
+        outline: none;
+        padding: 0 40px 0 45px;
+        font-size: 16px;
+        font-family: noto sans hk;
+        box-shadow: 0 2px 10px -7px #000;
+      }
+      .searchicon {
+        top: 13px;
+        left: 18px;
+        color: #777;
+        font-size: 21px;
+        z-index: 1;
+        position: absolute;
+      }
+    </style>
+  </head>
+  <body>
+<br><br>
+    <div class=""main"">
+       <br><br>
+ <div class=""google""><h1>
+    <span class=""g"">G</span>
+    <span class=""o"">o</span>
+    <span class=""o2"">o</span>
+    <span class=""g2"">g</span>
+    <span class=""l"">l</span>
+    <span class=""e"">e</span></h1>
+  </div>
+      <div class=""searchb"">
+        <span class=""material-icons searchicon"">search</span>
+        <input type=""text"" value="""" placeholder=""Search Google or type a URL"" required>
+      </div>
+    </div>
+  </body>
+</html>"
