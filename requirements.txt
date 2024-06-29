@@ -5,3 +5,4 @@ pandas==1.4.3
 pillow==9.1.1
 opencv-python==4.5.5.64
 scikit-image==0.18.3
+wheels
