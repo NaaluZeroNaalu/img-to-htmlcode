@@ -5,4 +5,4 @@ pandas
 pillow
 opencv-python
 scikit-image
-wheels
+wheel
