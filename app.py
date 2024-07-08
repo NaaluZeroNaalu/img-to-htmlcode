@@ -12,7 +12,7 @@ from skimage.metrics import structural_similarity as ssim
 import tempfile
 
 # Google Drive link to your model file (replace with your actual link)
-google_drive_link = "https://drive.google.com/uc?export=download&id=1xjBXYvv6cjm6c-813_zZwe-zHTEX1OqK"
+google_drive_link = "https://drive.google.com/file/d/1xjBXYvv6cjm6c-813_zZwe-zHTEX1OqK/view?usp=drive_link"
 
 # Download the model file from Google Drive and save it locally
 response = requests.get(google_drive_link)
